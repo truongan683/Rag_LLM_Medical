@@ -1,0 +1,6 @@
+
+streamlit
+llama-cpp-python
+sentence-transformers
+transformers
+chromadb

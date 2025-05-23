@@ -1,0 +1,332 @@
+[
+    {
+        "timestamp": "2025-05-08T15:28:35.474275",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 13.36
+    },
+    {
+        "timestamp": "2025-05-08T20:03:10.539144",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 28.71
+    },
+    {
+        "timestamp": "2025-05-08T20:11:47.199971",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 19.35
+    },
+    {
+        "timestamp": "2025-05-08T20:15:45.653132",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 18.14
+    },
+    {
+        "timestamp": "2025-05-08T20:21:43.207226",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 17.57
+    },
+    {
+        "timestamp": "2025-05-08T20:32:38.927050",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 17.02
+    },
+    {
+        "timestamp": "2025-05-08T20:47:52.956910",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 19.57
+    },
+    {
+        "timestamp": "2025-05-08T20:57:40.765640",
+        "user_input": "  Trẻ hay vặn mình, ọc sữa, khó ngủ ban đêm phải làm sao?  \n ",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"triệu chứng\", \"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 18.94
+    },
+    {
+        "timestamp": "2025-05-09T09:55:21.522485",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 11.26
+    },
+    {
+        "timestamp": "2025-05-09T09:57:23.739270",
+        "user_input": "khi bị rắn cắn cần xử lý như thế nào",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 12.4
+    },
+    {
+        "timestamp": "2025-05-09T10:02:29.823425",
+        "user_input": "công ty VNPT có bệnh viện không",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [], \"phần chính\": \"khác\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [],
+            "phần chính": "khác"
+        },
+        "analysis_time_seconds": 11.44
+    },
+    {
+        "timestamp": "2025-05-18T23:26:01.452873",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 20.92
+    },
+    {
+        "timestamp": "2025-05-23T23:14:02.922915",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 28.63
+    },
+    {
+        "timestamp": "2025-05-23T23:25:04.826646",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [],
+            "phần chính": null
+        },
+        "analysis_time_seconds": 0
+    },
+    {
+        "timestamp": "2025-05-23T23:28:13.632924",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [],
+            "phần chính": null
+        },
+        "analysis_time_seconds": 0
+    },
+    {
+        "timestamp": "2025-05-23T23:37:38.099480",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [],
+            "phần chính": null
+        },
+        "analysis_time_seconds": 0
+    },
+    {
+        "timestamp": "2025-05-23T23:41:05.402756",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [],
+            "phần chính": null
+        },
+        "analysis_time_seconds": 0
+    },
+    {
+        "timestamp": "2025-05-23T23:51:42.228492",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [],
+            "phần chính": null
+        },
+        "analysis_time_seconds": 0
+    },
+    {
+        "timestamp": "2025-05-23T23:53:37.378538",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [],
+            "phần chính": null
+        },
+        "analysis_time_seconds": 0
+    },
+    {
+        "timestamp": "2025-05-23T23:57:48.711429",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 1.62
+    },
+    {
+        "timestamp": "2025-05-24T01:29:25.196539",
+        "user_input": "Tôi bị sốt nhẹ và đau họng, tôi nên làm gì?",
+        "llm_response": "",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [],
+            "phần chính": null
+        },
+        "analysis_time_seconds": 0
+    },
+    {
+        "timestamp": "2025-05-24T01:34:56.806778",
+        "user_input": "Tôi bị đau họng và mệt mỏi",
+        "llm_response": "",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [],
+            "phần chính": null
+        },
+        "analysis_time_seconds": 0
+    },
+    {
+        "timestamp": "2025-05-24T02:04:27.060471",
+        "user_input": "Tôi bị đau họng và mệt mỏi",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [], \"phần chính\": \"triệu chứng\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [],
+            "phần chính": "triệu chứng"
+        },
+        "analysis_time_seconds": 3.48
+    },
+    {
+        "timestamp": "2025-05-24T02:05:39.258484",
+        "user_input": "Tôi bị đau họng và mệt mỏi",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [], \"phần chính\": \"triệu chứng\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [],
+            "phần chính": "triệu chứng"
+        },
+        "analysis_time_seconds": 1.08
+    },
+    {
+        "timestamp": "2025-05-24T02:05:59.573733",
+        "user_input": "Tôi bị đau họng và mệt mỏi",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [], \"phần chính\": \"triệu chứng\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [],
+            "phần chính": "triệu chứng"
+        },
+        "analysis_time_seconds": 2.18
+    },
+    {
+        "timestamp": "2025-05-24T02:08:42.291556",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "{\"tên bệnh\": [\"đau mắt\"], \"phần phụ\": [\"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [
+                "đau mắt"
+            ],
+            "phần phụ": [
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 1.91
+    },
+    {
+        "timestamp": "2025-05-24T02:16:10.039992",
+        "user_input": "cách chữa đau mắt",
+        "llm_response": "{\"tên bệnh\": [\"đau mắt\"], \"phần phụ\": [], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [
+                "đau mắt"
+            ],
+            "phần phụ": [],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 2.18
+    }
+]
