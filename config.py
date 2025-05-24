@@ -76,3 +76,5 @@ LLM_CONFIG = {
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")  # Thay 'os.getenv("OPENAI_API_KEY")' bằng key của bạn
 QWEN_API_KEY = ""
 GPT_EMBEDDING_MODEL = "text-embedding-3-small"
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")  # Thay 'os.getenv("GOOGLE_API_KEY")' bằng key của bạn
+GOOGLE_CSE_ID = "576cdbede18be486f"

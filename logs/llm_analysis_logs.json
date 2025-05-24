@@ -328,5 +328,185 @@
             "phần chính": "điều trị"
         },
         "analysis_time_seconds": 2.18
+    },
+    {
+        "timestamp": "2025-05-24T17:36:31.389787",
+        "user_input": "tôi bị đau bụng phải làm sao",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"triệu chứng\", \"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 1.89
+    },
+    {
+        "timestamp": "2025-05-24T17:38:19.807582",
+        "user_input": "Tôi bị đau họng và mệt mỏi",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"triệu chứng\"], \"phần chính\": \"triệu chứng\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng"
+            ],
+            "phần chính": "triệu chứng"
+        },
+        "analysis_time_seconds": 1.04
+    },
+    {
+        "timestamp": "2025-05-24T18:48:15.765386",
+        "user_input": "tôi bị đau bụng phải làm sao",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"triệu chứng\"], \"phần chính\": \"khác\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng"
+            ],
+            "phần chính": "khác"
+        },
+        "analysis_time_seconds": 1.22
+    },
+    {
+        "timestamp": "2025-05-24T18:50:25.061921",
+        "user_input": "tôi bị đau bụng phải làm sao",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"triệu chứng\", \"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 2.15
+    },
+    {
+        "timestamp": "2025-05-24T18:53:21.110713",
+        "user_input": "tôi bị đau bụng phải làm sao",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"triệu chứng\", \"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 1.51
+    },
+    {
+        "timestamp": "2025-05-24T18:56:17.194121",
+        "user_input": "tôi bị đau bụng phải làm sao",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"triệu chứng\", \"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 23.79
+    },
+    {
+        "timestamp": "2025-05-24T19:02:20.787739",
+        "user_input": "tôi bị đau bụng phải làm sao",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"triệu chứng\", \"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 1.65
+    },
+    {
+        "timestamp": "2025-05-24T19:08:15.064807",
+        "user_input": "tôi bị đau bụng phải làm sao",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"triệu chứng\", \"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 1.64
+    },
+    {
+        "timestamp": "2025-05-24T19:21:01.156986",
+        "user_input": "tôi bị đau bụng phải làm sao",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"triệu chứng\", \"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 1.43
+    },
+    {
+        "timestamp": "2025-05-24T19:26:08.315981",
+        "user_input": "tôi bị đau bụng phải làm sao",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"triệu chứng\", \"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 1.52
+    },
+    {
+        "timestamp": "2025-05-24T19:28:21.241122",
+        "user_input": "tôi bị đau bụng phải làm sao",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"triệu chứng\", \"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 1.38
+    },
+    {
+        "timestamp": "2025-05-24T19:29:23.696807",
+        "user_input": "tôi bị đau bụng phải làm sao",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"triệu chứng\", \"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 1.86
+    },
+    {
+        "timestamp": "2025-05-24T19:33:08.724794",
+        "user_input": "tôi bị đau bụng phải làm sao",
+        "llm_response": "{\"tên bệnh\": [], \"phần phụ\": [\"triệu chứng\", \"điều trị\"], \"phần chính\": \"điều trị\"}",
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        },
+        "analysis_time_seconds": 1.67
     }
 ]

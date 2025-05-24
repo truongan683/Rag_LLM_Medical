@@ -3,7 +3,10 @@ from modules.retriever.retriever import retrieve_data
 from modules.retriever.context_builder import build_context
 from modules.retriever.response_generator import generate_response_stream
 from modules.retriever.log_manager import save_log, save_llm_analysis_log
+from config import GOOGLE_API_KEY, GOOGLE_CSE_ID
+from modules.google_search_tamanh import GoogleSearchTamAnh
 
+google_searcher = GoogleSearchTamAnh(GOOGLE_API_KEY, GOOGLE_CSE_ID)
 def process_prompt(prompt: str, llm, collection, embedder, reranker, model_type="openai"):
     """
     Hàm xử lý prompt, giống logic trong Streamlit, nhưng dùng cho API FastAPI.
@@ -33,8 +36,13 @@ def process_prompt(prompt: str, llm, collection, embedder, reranker, model_type=
         top_k=5
     )
 
-    # 3. Xây dựng context
-    context = build_context(docs, metas)
+    # if not docs:
+        # Nếu không có dữ liệu, gọi Google
+    context = google_searcher.get_context(prompt, section_ids, main_obj)
+    #     if not context:
+    #         context = "Không tìm thấy thông tin liên quan trên website Tâm Anh hoặc Google."
+    # else:
+    #     context = build_context(docs, metas)
 
     # 4. Sinh phản hồi và stream
     gen, get_full_response, get_response_time, messages = generate_response_stream(

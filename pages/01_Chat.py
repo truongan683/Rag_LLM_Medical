@@ -1,13 +1,16 @@
 import streamlit as st
 import time
-from config import CHROMA_COLLECTION_NAME
+from config import CHROMA_COLLECTION_NAME, GOOGLE_API_KEY, GOOGLE_CSE_ID
 from modules.retriever.query_analyzer import analyze_query_with_llm
 from modules.retriever.retriever import retrieve_data
 from modules.retriever.context_builder import build_context
 from modules.retriever.log_manager import save_log, save_llm_analysis_log
 from modules.retriever.response_generator import generate_response_stream
 from modules.llm_utils import openai_chat_completion_stream, llama_chat_completion_stream
+from modules.google_search_tamanh import GoogleSearchTamAnh
 
+
+google_searcher = GoogleSearchTamAnh(GOOGLE_API_KEY, GOOGLE_CSE_ID)
 st.title("💬 Trò chuyện với Chatbot Y tế")
 
 if "client" not in st.session_state:
@@ -19,7 +22,7 @@ collection = client.get_collection(name=CHROMA_COLLECTION_NAME)
 def call_llm_stream(messages, model_type="llama", llm=None):
     if model_type == "openai":
         # Bạn chọn model openai hay qwen qua session_state
-        yield from openai_chat_completion_stream(messages, model="gpt-4.1-mini") # Hoặc model khác
+        yield from openai_chat_completion_stream(messages, model="gpt-4o-mini") # Hoặc model khác
     else:
         yield from llama_chat_completion_stream(llm, messages)
 
@@ -52,9 +55,13 @@ if prompt := st.chat_input("Nhập câu hỏi của bạn..."):
         query_text=prompt,
         top_k=5
     )
-
-    # 3) Xây dựng context
-    context = build_context(docs, metas)
+    # if not docs:
+        # Nếu không có dữ liệu, gọi Google
+    context = google_searcher.get_context(prompt, section_ids, main_obj)
+    #     if not context:
+    #         context = "Không tìm thấy thông tin liên quan trên website Tâm Anh hoặc Google."
+    # else:
+    #     context = build_context(docs, metas)
 
     # 4) Sinh phản hồi và stream
     # Gọi hàm generate_response_stream

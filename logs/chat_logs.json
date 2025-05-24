@@ -852,5 +852,873 @@
             "phần phụ": [],
             "phần chính": "điều trị"
         }
+    },
+    {
+        "timestamp": "2025-05-24T17:36:45.104726",
+        "user_message": "tôi bị đau bụng phải làm sao",
+        "bot_response": "Thông tin bạn cung cấp chưa đủ chi tiết để xác định nguyên nhân gây đau bụng của bạn và từ đó đưa ra hướng điều trị cụ thể. Đau bụng có thể do nhiều nguyên nhân khác nhau như viêm ruột thừa, viêm tụy, hội chứng ruột kích thích, v.v., mỗi trường hợp sẽ có cách xử trí khác nhau.\n\nBạn nên đến cơ sở y tế để được khám, chẩn đoán chính xác và tư vấn phương pháp điều trị phù hợp. Nếu đau bụng kèm theo các triệu chứng nghiêm trọng như sốt cao, đau dữ dội, nôn mửa, hoặc thay đổi chức năng tiêu hóa thì cần đi khám cấp cứu ngay.",
+        "response_time_seconds": 2.18,
+        "chromadb_data": {
+            "documents": [
+                "Điều trị hội chứng ruột kích thích tập trung nhiều vào chế độ ăn và dinh dưỡng, kết hợp với uống thuốc điều trị triệu chứng nổi trội và thay đổi lối sống khoa học để phục hồi và cải thiện chức năng đại tràng. IBS có phác đồ điều trị tập trung vào các triệu chứng cụ thể mà mỗi người bệnh gặp. Vì thế, bác sĩ sẽ chỉ định các loại thuốc dựa theo triệu chứng bệnh, đồng thời, hướng dẫn người bệnh về chế độ dinh dưỡng, các chất cần bổ sung và những loại thực phẩm, các chất cần tránh do gây dị ứng nếu có. Những loại thuốc thường được sử dụng trong quá trình điều trị hội chứng ruột kích thích gồm: - Thuốc chống co thắt - Thuốc điều trị tiêu chảy - Thuốc điều trị táo bón - Các thực phẩm chức năng bổ sung chất xơ - Thuốc an thần, giảm lo âu - Lợi khuẩn đường ruột Ngoài ra, người bệnh còn cần thực hiện theo chế độ ăn phù hợp, bổ sung nhiều chất xơ đến từ rau củ quả. Đồng thời, hạn chế tối đa các thực phẩm có chứa nhiều gluten như lúa mì, yến mạch, ngũ cốc. Đối với người có kết quả dị ứng với protein trong những loại thực phẩm này cần loại bỏ hoàn toàn ra khỏi thực đơn của mình. Người bệnh IBS được khuyến khích ăn theo chế độ FODMAP thấp để ổn định ruột già và",
+                "mì, yến mạch, ngũ cốc. Đối với người có kết quả dị ứng với protein trong những loại thực phẩm này cần loại bỏ hoàn toàn ra khỏi thực đơn của mình. Người bệnh IBS được khuyến khích ăn theo chế độ FODMAP thấp để ổn định ruột già và cải thiện sức khỏe hệ tiêu hóa. Đây là chế độ kiêng ăn các loại thực phẩm là carbohydrate chuỗi ngắn như táo, dưa hấu, hoa quả đóng hộp nói chung, sữa tươi có lactose, phô mai, sữa chua, fructose và các loại trái cây có lượng fructose cao, mật ong, các loại cây họ đậu, củ dền, bông cải xanh, lúa mì và các loại đồ uống có cồn. ﻿",
+                "Người bệnh cần thay đổi chế độ sinh hoạt: Tuyệt đối không dùng rượu, bia không hút thuốc lá, giảm đồ ăn nhiều chất béo và tinh bột đặc biệt khi có tăng mỡ máu. Triệu chứng tiêu phân mỡ sẽ được điều trị bằng những chế phẩm men tụy được chọn dựa theo hoạt độ lipase cao. Liều thường khoảng 25.000- 50.000 đơn vị lipase trong viên nang, được sử dụng trong bữa ăn. Sử dụng đồng thời thuốc ức chế bơm proton (omeprazol 20 – 60 mg/ngày) giúp giảm sự bất hoạt của lipase do axit, nhờ đó cải thiện triệu chứng đi tiêu phân mỡ. Đau thứ phát do viêm tụy mạn tự phát có thể thuyên giảm trong một số trường hợp bằng cách sử dụng những enzym tụy hay thuốc giảm đau. Nếu có đi kèm đái tháo đường, người bệnh cần được điều trị theo cách thông thường bằng việc sử dụng insulin. (3)",
+                "Những phương pháp phẫu thuật trong điều trị viêm tụy mạn gồm: - Phẫu thuật loại trừ tắc nghẽn ống tụy: Phương pháp này được thực hiện để dẫn lưu nang giả, giảm đau, điều trị biến chứng do viêm tụy mạn. - Phẫu thuật dẫn lưu ống tụy: Phương pháp này được chỉ định để làm giãn ống tụy hay cắt đuôi tụy nối thông tụy – hỗng tràng nhằm giảm đau cho người bệnh. - Phẫu thuật cắt tụy: Cắt tụy một phần hay toàn phần được xem là phương pháp điều trị cuối cùng cho người bệnh viêm tụy mạn tiến triển nghiêm trọng. Phương pháp này giúp ngăn ngừa nguy cơ vỡ ống tụy và những biến chứng khác. - Phong bế cắt đám rối thần kinh qua nội soi siêu âm hoặc qua da: Phương pháp này giúp giảm đau do viêm tụy mạn.",
+                "Bác sĩ sẽ căn cứ vào mức độ nghiêm trọng của tình trạng viêm để chỉ định phương pháp điều trị phù hợp. Cụ thể như sau:",
+                "Phương pháp này có thể thực hiện dưới dạng mổ hở với vết rạch trên bụng dài khoảng 5 – 10cm hoặc mổ nổi soi với vết rạch nhỏ hơn. Đối với thủ thuật thứ hai, bác sĩ sẽ chèn các dụng cụ đặc biệt cùng một máy quay video vào bụng để tiến hành cắt bỏ ruột thừa tổn thương. Phương pháp này thường được ưu tiên lựa chọn bởi thời gian hồi phục nhanh, ít đau và để lại sẹo. Nội soi đồng thời cũng phù hợp hơn đối với người cao tuổi và người béo phì.(4) Tuy nhiên, nếu ruột thừa đã bị vỡ, nhiễm trùng lan ra ngoài hoặc xuất hiện áp xe, người bệnh buộc phải tiến hành mổ hở để làm sạch khoang bụng. Sau phãu thuật, bác sĩ sẽ chỉ định ở lại bệnh viện từ 1 – 2 ngày để theo dõi và chăm sóc.",
+                "Nếu ruột thừa bị vỡ và đã hình thành áp xe xung quanh, bác sĩ sẽ tiến hành dẫn lưu bằng cách đặt một đường ống đi xuyên qua da vào khối mủ. Phẫu thuật cắt bỏ cơ quan cũng tiếp tục được thực hiện sau đó khoảng vài tuần khi nhiễm trùng đã được kiểm soát.",
+                "Sau khi thực hiện cắt bỏ ruột thừa do viêm, người bệnh cần thực hiện các biện pháp chăm sóc sau đây để đảm bảo vết thương được phục hồi hiệu quả: - Trong giai đoạn đầu sau phẫu thuật, người bệnh cần tránh hoạt động quá sức (khoảng 3 – 5 ngày đối với mổ nội soi và 10 – 14 ngày đối với mổ hở). - Đặt một chiếc gối lên bụng và ấn nhẹ trước khi ho, cười hoặc di chuyển để giúp giảm đau. - Liên hệ với bác sĩ nếu thuốc giảm đau không có hiệu quả để tránh làm chậm quá trình chữa lành vết thương. - Sau thời gian nghỉ ngơi được chỉ định, người bệnh nên bắt đầu hoạt động nhẹ nhàng, chẳng hạn như những cuộc đi bộ ngắn. - Khi cơ thể hồi phục, cảm giác buồn ngủ sẽ tăng lên, lúc này hãy nghỉ ngơi thoải mái theo nhu cầu.",
+                "Việc điều trị viêm tuỵ sẽ căn cứ theo hai loại viêm: Viêm tụy cấp tính và viêm tụy mãn tính.(6)",
+                "Bác sĩ Trung cho biết, trong quản lý viêm tuỵ cấp do mọi nguyên nhân thì giảm đau, bù dịch là hai nguyên tắc nền tảng quan trọng nhất. Tiếp theo là giải quyết nguyên nhân (nếu có) như giảm mỡ máu (triglyceride), can thiệp sỏi mật, chấn thương… Điều trị kháng sinh nếu có bằng chứng nhiễm trùng. Và đặc biệt xem xét cho bệnh nhân ăn sớm trong vòng 24h-72h sau nhập viện tùy theo mức độ viêm tụy cũng như khả năng dung nạp thức ăn qua đường miệng hoặc qua sonde dạ dày. - Giảm đau: Người bệnh được giảm đau tích cực với các thuốc giảm đau - Bù dịch: Tuỳ mức độ nặng và bệnh lý kèm theo, người bệnh có thể được truyền dung dịch Ringer lactat hoặc Sodium cloride 0.9%. Lưu ý, người bệnh cần được theo dõi sát lượng nước tiểu, sinh hiệu, xét nghiệm máu như dung tích hồng cầu, nồng độ urea máu để xác định chính xác lượng dịch truyền cần thiết, tránh tình trạng quá nhiều hoặc thiếu dịch. Tùy theo mức độ nặng nhẹ cũng như khả năng dung nạp mà người bệnh viêm tụy cấp được khuyến cáo cho ăn sớm trong vòng 24h-72h sau nhập viện. Nếu bệnh nhân không dung nạp bằng đường miệng có thể nuôi ăn qua sonde dạ dày. Những trường hợp chống chỉ định nuôi ăn sớm như liệt ruột, tắc ruột…có thể nuôi ăn đường tĩnh mạch thay thế. Bác sĩ Trung cho hay",
+                "trong vòng 24h-72h sau nhập viện. Nếu bệnh nhân không dung nạp bằng đường miệng có thể nuôi ăn qua sonde dạ dày. Những trường hợp chống chỉ định nuôi ăn sớm như liệt ruột, tắc ruột…có thể nuôi ăn đường tĩnh mạch thay thế. Bác sĩ Trung cho hay “việc nuôi ăn sớm giúp ngăn ngừa các biến chứng nguy hiểm như suy đa cơ quan, viêm tụy cấp hoại tử, điều này sẽ không có được nếu bệnh nhân được nuôi ăn đường ruột quá trễ”.",
+                "Việc lạm dụng kháng sinh trong viêm tụy cấp nếu không có bằng chứng nhiễm trùng đôi khi làm chậm trễ việc bù dịch và điều trị nguyên nhân ban đầu trong cấp cứu viêm tụy cấp. Tất cả những khuyến cáo về điều trị viêm tụy cấp đều không đồng thuận việc sử dụng kháng sinh nhằm mục đích phòng ngừa nhiễm trùng.",
+                "Bệnh nhân viêm tụy mạn thường có những triệu chứng và/hoặc biến chứng như đau bụng mạn tính, suy dinh dưỡng, tiêu phân mỡ do thiếu men tuỵ, đái tháo đường do rối loạn men tuỵ nội tiết và thậm chí ung thư tuỵ. Do đó, trong điều trị viêm tụy mạn tập trung chủ yếu vào việc cải thiện các triệu chứng, giúp ngăn ngừa bệnh tiến triển cũng như phát hiện và điều trị kịp thời biến chứng ung thư tuỵ. - Điều trị nguyên nhân như ngưng rượu, thuốc lá, sỏi mật, tăng triglyceride máu… để ngăn ngừa viêm tụy tái phát. - Giảm đau nếu bệnh nhân viêm tụy mạn bị đau nhiều. Có thể dùng thuốc hoặc nội soi lấy sỏi tuỵ, thậm chí can thiệp phẫu thuật sỏi tuỵ nếu cần để giảm đau. - Điều trị hỗ trợ men tụy ở những bệnh nhân có bằng chứng thiếu men tuỵ ngoại tiết. - Điều trị với insulin nếu bệnh nhân có biến chứng đái tháo đường, đồng thời theo dõi định kỳ nhằm phát hiện sớm ung thư tuỵ"
+            ],
+            "metadatas": [
+                {
+                    "doc_name": "hoi-chung-ruot-kich-thich",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "hoi-chung-ruot-kich-thich"
+                },
+                {
+                    "doc_name": "viem-tuy-man-tinh",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-tuy-man-tinh",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-ruot-thua"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                }
+            ]
+        },
+        "prompt": [
+            {
+                "role": "system",
+                "content": "\n        Bạn là một chuyên gia y tế.\n        - Chỉ dựa vào nội dung được cung cấp (context) để trả lời.\n        - Không tự bịa thêm thông tin không có trong context.\n        - Nếu thông tin không đủ để trả lời, hãy trả lời lịch sự rằng không đủ dữ liệu.\n        - Nếu thông tin (context) không khớp với câu hỏi (ví dụ câu hỏi về bệnh \"đau mắt đỏ\" nhưng kết quả chỉ trả về \"đau mắt\"), hãy trả lời rằng không đủ dữ liệu.\n        - Nếu câu hỏi không liên quan đến y tế, hãy trả lời rằng không phải lĩnh vực của bạn.\n        - Chỉ trả lời bằng tiếng Việt.\n    "
+            },
+            {
+                "role": "user",
+                "content": "\n    Dưới đây là một số thông tin y tế (context):\n\n    - hoi-chung-ruot-kich-thich (Phần: điều trị): Điều trị hội chứng ruột kích thích tập trung nhiều vào chế độ ăn và dinh dưỡng, kết hợp với uống thuốc điều trị triệu chứng nổi trội và thay đổi lối sống khoa học để phục hồi và cải thiện chức năng đạ...\n- hoi-chung-ruot-kich-thich (Phần: điều trị): mì, yến mạch, ngũ cốc. Đối với người có kết quả dị ứng với protein trong những loại thực phẩm này cần loại bỏ hoàn toàn ra khỏi thực đơn của mình. Người bệnh IBS được khuyến khích ăn theo chế độ FODMA...\n- viem-tuy-man-tinh (Phần: điều trị): Người bệnh cần thay đổi chế độ sinh hoạt: Tuyệt đối không dùng rượu, bia không hút thuốc lá, giảm đồ ăn nhiều chất béo và tinh bột đặc biệt khi có tăng mỡ máu. Triệu chứng tiêu phân mỡ sẽ được điều tr...\n- viem-tuy-man-tinh (Phần: điều trị): Những phương pháp phẫu thuật trong điều trị viêm tụy mạn gồm: - Phẫu thuật loại trừ tắc nghẽn ống tụy: Phương pháp này được thực hiện để dẫn lưu nang giả, giảm đau, điều trị biến chứng do viêm tụy mạn...\n- viem-ruot-thua (Phần: điều trị): Bác sĩ sẽ căn cứ vào mức độ nghiêm trọng của tình trạng viêm để chỉ định phương pháp điều trị phù hợp. Cụ thể như sau:...\n- viem-ruot-thua (Phần: điều trị): Phương pháp này có thể thực hiện dưới dạng mổ hở với vết rạch trên bụng dài khoảng 5 – 10cm hoặc mổ nổi soi với vết rạch nhỏ hơn. Đối với thủ thuật thứ hai, bác sĩ sẽ ch...\n- viem-ruot-thua (Phần: điều trị): Nếu ruột thừa bị vỡ và đã hình thành áp xe xung quanh, bác sĩ sẽ tiến hành dẫn lưu bằng cách đặt một đường ống đi xuyên qua da vào khối mủ. Phẫu thuật cắt bỏ cơ quan cũng tiếp ...\n- viem-ruot-thua (Phần: điều trị): Sau khi thực hiện cắt bỏ ruột thừa do viêm, người bệnh cần thực hiện các biện pháp chăm sóc sau đây để đảm bảo vết thương được phục hồi hiệu quả: - Trong giai đoạn đầu sau ph...\n- viem-tuy (Phần: điều trị): Việc điều trị viêm tuỵ sẽ căn cứ theo hai loại viêm: Viêm tụy cấp tính và viêm tụy mãn tính.(6)...\n- viem-tuy (Phần: điều trị): Bác sĩ Trung cho biết, trong quản lý viêm tuỵ cấp do mọi nguyên nhân thì giảm đau, bù dịch là hai nguyên tắc nền tảng quan trọng nhất. Tiếp theo là giải quyết nguyên nhân (nếu có) như giảm mỡ máu (tri...\n- viem-tuy (Phần: điều trị): trong vòng 24h-72h sau nhập viện. Nếu bệnh nhân không dung nạp bằng đường miệng có thể nuôi ăn qua sonde dạ dày. Những trường hợp chống chỉ định nuôi ăn sớm như liệt ruột, tắc ruột…có thể nuôi ăn đườn...\n- viem-tuy (Phần: điều trị): Việc lạm dụng kháng sinh trong viêm tụy cấp nếu không có bằng chứng nhiễm trùng đôi khi làm chậm trễ việc bù dịch và điều trị nguyên nhân ban đầu trong cấp cứu viêm tụy cấp. Tất cả những khuyến cáo về...\n- viem-tuy (Phần: điều trị): Bệnh nhân viêm tụy mạn thường có những triệu chứng và/hoặc biến chứng như đau bụng mạn tính, suy dinh dưỡng, tiêu phân mỡ do thiếu men tuỵ, đái tháo đường do rối loạn men tuỵ nội tiết và thậm chí ung ...\n\n    Câu hỏi:\n    tôi bị đau bụng phải làm sao\n    "
+            }
+        ],
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        }
+    },
+    {
+        "timestamp": "2025-05-24T17:38:27.230171",
+        "user_message": "Tôi bị đau họng và mệt mỏi",
+        "bot_response": "Dựa vào thông tin bạn cung cấp về triệu chứng đau họng và mệt mỏi, đây có thể là dấu hiệu của các bệnh như viêm họng cấp tính, viêm họng xung huyết, hoặc các nguyên nhân khác gây đau họng như cảm cúm hoặc thủy đậu.\n\nTuy nhiên, để xác định chính xác nguyên nhân và có phương pháp điều trị phù hợp, bạn nên đi khám bác sĩ để được chẩn đoán rõ hơn dựa trên các triệu chứng cụ thể khác cũng như tình trạng sức khỏe tổng thể của bạn. Nếu bạn có thêm các triệu chứng khác như sốt cao, ho, khó thở hoặc nổi mẩn trên da, hãy thông báo ngay cho bác sĩ.",
+        "response_time_seconds": 2.37,
+        "chromadb_data": {
+            "documents": [
+                "Các triệu chứng thường gặp ở người bị viêm họng cấp tính bao gồm: sốt cao khoảng 38 – 39 °C, có lúc lên đến 40°C, mệt mỏi, ớn lạnh nhức đầu, kém ăn, đau mỏi toàn thân, nổi hạch góc hàm… Ngoài ra, người bị viêm họng cấp có thể bị đau họng nhiều, nhất là khi nuốt dù là nuốt chất lỏng, đôi khi có cảm giác nhói ở tai nghe nuốt hoặc nói chuyện, ho theo từng cơn, chảy nước mũi, ngạt mũi, khàn tiếng, mất tiếng….",
+                "Tùy vào nguyên nhân gây đau họng, dấu hiệu đau họng có thể khác nhau. - Cảm cúm: Đau họng thường kèm ho, sốt, cổ có đờm, hôi miệng, sổ mũi, nghẹt mũi, sưng đỏ và chảy nước mắt và mệt mỏi. - Vi khuẩn: Đau họng kèm sốt, hạch cổ, amidan có mủ… - Lao phổi: Đau họng kèm ho nhiều, đờm có lẫn máu. - Trào ngược dạ dày thực quản: Dịch dạ dày bị trào lên cổ họng, axit dạ dày làm cho niêm mạc họng bị kích ứng gây nóng, rát. Nhiều trường hợp còn bị ho. Đau họng do trào ngược dạ dày thực quản có thể kèm theo đặc trưng của bệnh dạ dày là tình trạng ợ hơi, ợ nóng, ho nhiều về đêm. Người bệnh sẽ ho về đêm nhiều hơn do khi ngủ, trong tư thế nằm khiến axit dạ dày dễ bị trào ngược hơn. - Ung thư vòm họng: Đau họng thường kèm nổi hạch cổ, thể trạng mệt mỏi, sụt cân, giọng nói có thể thay đổi, khạc ra máu. - Bệnh tuyến giáp: Đau họng có thể kèm cổ to, nuốt vướng, nuốt khó… Đau họng là một triệu chứng không đặc hiệu của nhiều loại bệnh lý trong đó có cả bệnh lành tính và ác tính. Nội soi vùng tai mũi họng góp phần tìm nguyên nhân gây bệnh và tầm soát các nguyên nhân nguy hiểm. Do đó, ThS.BS.CKI Nguyễn Thị Thục Như khuyến nghị, nếu sau hai tuần các",
+                "Khi bắt đầu phát bệnh, người bệnh có biểu hiện mệt mỏi, nhức đầu, đau cơ, chán ăn, nôn ói, sốt nhẹ, chảy nước mũi, đau họng. Và 1 – 2 ngày sau đó, trên da người bệnh sẽ xuất hiện các mẩn ngứa màu đỏ khắp các vùng da, với đường kính vài mm, bắt đầu ở vùng đầu, mắt rồi lan ra toàn thân. Một số người bệnh còn xuất hiện hạch sau tai, viêm họng.",
+                "Bác sĩ Hương cho biết, các dấu hiệu viêm họng cấp thường chỉ kéo dài từ 1-2 tuần. Các triệu chứng chung thường bao gồm họng sưng, đỏ, ngứa, rát, đau, có thể ho, khàn giọng, sốt, khó nuốt, mệt mỏi. Ngoài ra, tùy vào nguồn gây bệnh mà các triệu chứng có thể biểu hiện khác nhau như sau.",
+                "Viêm họng xung huyết là bệnh cấp tính, diễn ra đột ngột với các triệu chứng điển hình như: - Sốt trên 38 độ, đau đầu, mệt mỏi, khó thở, ớn lạnh, đau nhức toàn thân, chán ăn. - Cảm giác đau nhói lên tai khi nói, ho hoặc nuốt hoặc cảm giác đau rát, vướng víu cổ họng dẫn đến ăn không ngon ở người lớn, lười ăn, quấy khóc ở trẻ nhỏ. - Ho từng cơn, ho khan hoặc ho có đờm, ho nhiều về đêm và sáng. - Sổ mũi, nghẹt mũi, có thể chảy máu cam. - Khi thăm khám có thể thấy niêm mạc họng tấy đỏ, phù nề; các tổ chức bạch huyết ở thành sau họng nổi rõ mao mạch và sưng nhẹ hạch góc hàm. - Nếu nguyên nhân gây viêm họng xung huyết là do virus, các triệu chứng thường giảm dần và tự biến mất sau 3-5 ngày, nhưng bệnh có thể kéo dài hơn nếu có nguyên nhân từ vi khuẩn."
+            ],
+            "metadatas": [
+                {
+                    "section_id": "triệu chứng",
+                    "doc_name": "benh-viem-hong"
+                },
+                {
+                    "doc_name": "dau-hong",
+                    "section_id": "triệu chứng"
+                },
+                {
+                    "doc_name": "benh-thuy-dau",
+                    "section_id": "triệu chứng"
+                },
+                {
+                    "doc_name": "benh-viem-hong-cap",
+                    "section_id": "triệu chứng"
+                },
+                {
+                    "section_id": "triệu chứng",
+                    "doc_name": "viem-hong-xung-huyet"
+                }
+            ]
+        },
+        "prompt": [
+            {
+                "role": "system",
+                "content": "\n        Bạn là một chuyên gia y tế.\n        - Chỉ dựa vào nội dung được cung cấp (context) để trả lời.\n        - Không tự bịa thêm thông tin không có trong context.\n        - Nếu thông tin không đủ để trả lời, hãy trả lời lịch sự rằng không đủ dữ liệu.\n        - Nếu thông tin (context) không khớp với câu hỏi (ví dụ câu hỏi về bệnh \"đau mắt đỏ\" nhưng kết quả chỉ trả về \"đau mắt\"), hãy trả lời rằng không đủ dữ liệu.\n        - Nếu câu hỏi không liên quan đến y tế, hãy trả lời rằng không phải lĩnh vực của bạn.\n        - Chỉ trả lời bằng tiếng Việt.\n    "
+            },
+            {
+                "role": "user",
+                "content": "\n    Dưới đây là một số thông tin y tế (context):\n\n    - benh-viem-hong (Phần: triệu chứng): Các triệu chứng thường gặp ở người bị viêm họng cấp tính bao gồm: sốt cao khoảng 38 – 39 °C, có lúc lên đến 40°C, mệt mỏi, ớn lạnh nhức đầu, kém ăn, đau mỏi toàn thân, nổi hạch góc hàm… Ngoài ra, ngườ...\n- dau-hong (Phần: triệu chứng): Tùy vào nguyên nhân gây đau họng, dấu hiệu đau họng có thể khác nhau. - Cảm cúm: Đau họng thường kèm ho, sốt, cổ có đờm, hôi miệng, sổ mũi, nghẹt mũi, sưng đỏ và chảy nước mắt và mệt mỏi. - Vi khuẩn: ...\n- benh-thuy-dau (Phần: triệu chứng): Khi bắt đầu phát bệnh, người bệnh có biểu hiện mệt mỏi, nhức đầu, đau cơ, chán ăn, nôn ói, sốt nhẹ, chảy nước mũi, đau họng. Và 1 – 2 ngày sau đó, trên da người bệnh sẽ xuất hiện các mẩn ngứa màu đỏ k...\n- benh-viem-hong-cap (Phần: triệu chứng): Bác sĩ Hương cho biết, các dấu hiệu viêm họng cấp thường chỉ kéo dài từ 1-2 tuần. Các triệu chứng chung thường bao gồm họng sưng, đỏ, ngứa, rát, đau, có thể ho, khàn giọng, sốt, khó nuốt, mệt mỏi. Ngo...\n- viem-hong-xung-huyet (Phần: triệu chứng): Viêm họng xung huyết là bệnh cấp tính, diễn ra đột ngột với các triệu chứng điển hình như: - Sốt trên 38 độ, đau đầu, mệt mỏi, khó thở, ớn lạnh, đau nhức toàn thân, chán ăn. - Cảm giác đau nhói lên ta...\n\n    Câu hỏi:\n    Tôi bị đau họng và mệt mỏi\n    "
+            }
+        ],
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng"
+            ],
+            "phần chính": "triệu chứng"
+        }
+    },
+    {
+        "timestamp": "2025-05-24T18:48:24.684123",
+        "user_message": "tôi bị đau bụng phải làm sao",
+        "bot_response": "Thông tin bạn cung cấp về triệu chứng \"đau bụng phải\" chưa đủ chi tiết để xác định nguyên nhân cụ thể vì đau bụng phải có thể do nhiều nguyên nhân khác nhau như viêm ruột thừa, viêm tụy, hoặc các vấn đề khác. \n\nTuy nhiên, trong các thông tin đã có, viêm ruột thừa cấp là một nguyên nhân thường gặp gây đau bụng phải, kèm theo buồn nôn và sốt. Nếu bạn có các triệu chứng này hoặc đau bụng phải dữ dội, nên đến cơ sở y tế để được khám và chẩn đoán chính xác.\n\nNếu đau bụng phải nhẹ và không kèm triệu chứng khác, bạn nên theo dõi thêm, tránh dùng thuốc tùy tiện và nghỉ ngơi. Trong mọi trường hợp, nếu đau tiếp tục hoặc tăng nặng, bạn nên đi khám bác sĩ để được tư vấn và điều trị phù hợp.",
+        "response_time_seconds": 2.83,
+        "chromadb_data": {
+            "documents": [
+                "Người bệnh bị đau ở vùng trên rốn lan sang phải, sang trái và lan ra sau lưng. Cơn đau xuất hiện không thường xuyên, kéo dài vài ngày hoặc lâu hơn. Sau đó, triệu chứng biến mất khá lâu, thậm chí có khi tới vài tháng. Cơn đau bụng do viêm tụy mạn thường xuất hiện sau bữa ăn nhiều mỡ và uống nhiều rượu. Lúc đầu, cơn đau chỉ âm ỉ, tức bụng và nóng rát tại vùng trên rốn, sau đó tiến triển thành đau quặn. Đau tăng dữ dội, có nhiều cơn đau nối tiếp nhau. Triệu chứng đau có thể kéo dài trong nhiều giờ. Thông thường, người bệnh phải ngồi gập người xuống để làm chùng cơ bụng, giúp đỡ đau. (1)",
+                "Dấu hiệu điển hình của viêm ruột thừa cấp là đau bụng, buồn nôn và sốt. Khi tình trạng sưng, viêm trở nên nghiêm trọng hơn, thành bụng liền kề sẽ bị kích thích, dẫn đến việc khu trú cơn đau ở vùng hạ sườn phải. Triệu chứng này thường không nhận thấy ở trẻ em dưới 3 tuổi. Cụ thể, dấu hiệu ban đầu là đau âm ỉ quanh rốn, sau vài giờ sẽ chuyển sang vùng hạ sườn phải. Thành bụng lúc này đã trở nên rất nhạy cảm với áp lực nhẹ. Nếu ruột thừa khu trú phía sau manh tràng, tác động sờ nắn ở góc phần tư phía dưới bên phải sẽ không gây ra cảm giác đau. Tương tự, nếu ruột thừa nằm hoàn toàn trong khung chậu, người bệnh cũng hoàn toàn không nhận thấy hiện tượng căng cứng vùng bụng, chỉ cảm thấy đau tại điểm McBurney khi ho. Trong những trường hợp như vậy, việc thăm khám trực tràng bằng kỹ thuật số thường sẽ phát hiện thấy tổn thương ở túi trực tràng. (2)",
+                "- Cơn đau bắt đầu từ từ hoặc đột ngột ở vùng bụng trên, có thể lan ra sau lưng - Cơn đau có thể kéo dài vài ngày (3) - Sốt - Buồn nôn - Nôn mửa - Chướng bụng - Nhịp tim nhanh",
+                "Triệu chứng điển hình của đau bụng kinh là đau âm ỉ ở bụng dưới, có thể đau quặn hoặc đau dữ dội. Thông thường, cơn đau bụng sẽ xuất hiện 1-2 ngày trước hoặc trong thời gian hành kinh, mức độ đau cao nhất trong khoảng 24 giờ đầu rồi giảm dần sau khoảng 2-3 ngày. Cơn đau sẽ tỷ lệ thuận với mức độ co bóp của tử cung, có thể lan xuống vùng thắt lưng và đùi. (3) Ngoài ra, chị em còn có thể gặp thêm các triệu chứng khác như: - Buồn nôn; - Đau đầu, chóng mặt; - Mệt mỏi; - Tiêu chảy hoặc táo bón tùy theo cơ địa. Tham khảo: Đau bụng kinh ở vị trí nào là bình thường?",
+                "Khi mắc hội chứng này, phụ nữ có thể gặp phải những cơn đau âm ỉ từ mức độ nhẹ đến dữ dội (cảm giác như cơn đau bụng kinh), đồng thời cảm thấy khó chịu ở vùng bụng, vùng chậu và lưng dưới."
+            ],
+            "metadatas": [
+                {
+                    "doc_name": "viem-tuy-man-tinh",
+                    "section_id": "triệu chứng"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "triệu chứng"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "triệu chứng"
+                },
+                {
+                    "section_id": "triệu chứng",
+                    "doc_name": "dau-bung-kinh"
+                },
+                {
+                    "doc_name": "buong-trung-da-nang",
+                    "section_id": "triệu chứng"
+                }
+            ]
+        },
+        "prompt": [
+            {
+                "role": "system",
+                "content": "\n        Bạn là một chuyên gia y tế.\n        - Chỉ dựa vào nội dung được cung cấp (context) để trả lời.\n        - Không tự bịa thêm thông tin không có trong context.\n        - Nếu thông tin không đủ để trả lời, hãy trả lời lịch sự rằng không đủ dữ liệu.\n        - Nếu thông tin (context) không khớp với câu hỏi (ví dụ câu hỏi về bệnh \"đau mắt đỏ\" nhưng kết quả chỉ trả về \"đau mắt\"), hãy trả lời rằng không đủ dữ liệu.\n        - Nếu câu hỏi không liên quan đến y tế, hãy trả lời rằng không phải lĩnh vực của bạn.\n        - Chỉ trả lời bằng tiếng Việt.\n    "
+            },
+            {
+                "role": "user",
+                "content": "\n    Dưới đây là một số thông tin y tế (context):\n\n    - viem-tuy-man-tinh (Phần: triệu chứng): Người bệnh bị đau ở vùng trên rốn lan sang phải, sang trái và lan ra sau lưng. Cơn đau xuất hiện không thường xuyên, kéo dài vài ngày hoặc lâu hơn. Sau đó, triệu chứng biến mất khá lâu, thậm chí có kh...\n- viem-ruot-thua (Phần: triệu chứng): Dấu hiệu điển hình của viêm ruột thừa cấp là đau bụng, buồn nôn và sốt. Khi tình trạng sưng, viêm trở nên nghiêm trọng hơn, thành bụng liền kề sẽ bị kích thích, dẫn đến việ...\n- viem-tuy (Phần: triệu chứng): - Cơn đau bắt đầu từ từ hoặc đột ngột ở vùng bụng trên, có thể lan ra sau lưng - Cơn đau có thể kéo dài vài ngày (3) - Sốt - Buồn nôn - Nôn mửa - Chướng bụng - Nhịp tim nhanh...\n- dau-bung-kinh (Phần: triệu chứng): Triệu chứng điển hình của đau bụng kinh là đau âm ỉ ở bụng dưới, có thể đau quặn hoặc đau dữ dội. Thông thường, cơn đau bụng sẽ xuất hiện 1-2 ngày trước hoặc trong thời gian hành kinh, mức độ đau cao ...\n- buong-trung-da-nang (Phần: triệu chứng): Khi mắc hội chứng này, phụ nữ có thể gặp phải những cơn đau âm ỉ từ mức độ nhẹ đến dữ dội (cảm giác như cơn đau bụng kinh), đồng thời cảm thấy khó chịu ở vùng bụng, vùng chậu và lưng dưới....\n\n    Câu hỏi:\n    tôi bị đau bụng phải làm sao\n    "
+            }
+        ],
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng"
+            ],
+            "phần chính": "khác"
+        }
+    },
+    {
+        "timestamp": "2025-05-24T19:02:31.734932",
+        "user_message": "tôi bị đau bụng phải làm sao",
+        "bot_response": "Xin lỗi, nhưng không đủ dữ liệu để đưa ra lời khuyên về tình trạng đau bụng của bạn. Bạn nên tham khảo ý kiến bác sĩ để được tư vấn cụ thể và chính xác.",
+        "response_time_seconds": 1.52,
+        "chromadb_data": {
+            "documents": [
+                "Điều trị hội chứng ruột kích thích tập trung nhiều vào chế độ ăn và dinh dưỡng, kết hợp với uống thuốc điều trị triệu chứng nổi trội và thay đổi lối sống khoa học để phục hồi và cải thiện chức năng đại tràng. IBS có phác đồ điều trị tập trung vào các triệu chứng cụ thể mà mỗi người bệnh gặp. Vì thế, bác sĩ sẽ chỉ định các loại thuốc dựa theo triệu chứng bệnh, đồng thời, hướng dẫn người bệnh về chế độ dinh dưỡng, các chất cần bổ sung và những loại thực phẩm, các chất cần tránh do gây dị ứng nếu có. Những loại thuốc thường được sử dụng trong quá trình điều trị hội chứng ruột kích thích gồm: - Thuốc chống co thắt - Thuốc điều trị tiêu chảy - Thuốc điều trị táo bón - Các thực phẩm chức năng bổ sung chất xơ - Thuốc an thần, giảm lo âu - Lợi khuẩn đường ruột Ngoài ra, người bệnh còn cần thực hiện theo chế độ ăn phù hợp, bổ sung nhiều chất xơ đến từ rau củ quả. Đồng thời, hạn chế tối đa các thực phẩm có chứa nhiều gluten như lúa mì, yến mạch, ngũ cốc. Đối với người có kết quả dị ứng với protein trong những loại thực phẩm này cần loại bỏ hoàn toàn ra khỏi thực đơn của mình. Người bệnh IBS được khuyến khích ăn theo chế độ FODMAP thấp để ổn định ruột già và",
+                "mì, yến mạch, ngũ cốc. Đối với người có kết quả dị ứng với protein trong những loại thực phẩm này cần loại bỏ hoàn toàn ra khỏi thực đơn của mình. Người bệnh IBS được khuyến khích ăn theo chế độ FODMAP thấp để ổn định ruột già và cải thiện sức khỏe hệ tiêu hóa. Đây là chế độ kiêng ăn các loại thực phẩm là carbohydrate chuỗi ngắn như táo, dưa hấu, hoa quả đóng hộp nói chung, sữa tươi có lactose, phô mai, sữa chua, fructose và các loại trái cây có lượng fructose cao, mật ong, các loại cây họ đậu, củ dền, bông cải xanh, lúa mì và các loại đồ uống có cồn. ﻿",
+                "Người bệnh cần thay đổi chế độ sinh hoạt: Tuyệt đối không dùng rượu, bia không hút thuốc lá, giảm đồ ăn nhiều chất béo và tinh bột đặc biệt khi có tăng mỡ máu. Triệu chứng tiêu phân mỡ sẽ được điều trị bằng những chế phẩm men tụy được chọn dựa theo hoạt độ lipase cao. Liều thường khoảng 25.000- 50.000 đơn vị lipase trong viên nang, được sử dụng trong bữa ăn. Sử dụng đồng thời thuốc ức chế bơm proton (omeprazol 20 – 60 mg/ngày) giúp giảm sự bất hoạt của lipase do axit, nhờ đó cải thiện triệu chứng đi tiêu phân mỡ. Đau thứ phát do viêm tụy mạn tự phát có thể thuyên giảm trong một số trường hợp bằng cách sử dụng những enzym tụy hay thuốc giảm đau. Nếu có đi kèm đái tháo đường, người bệnh cần được điều trị theo cách thông thường bằng việc sử dụng insulin. (3)",
+                "Những phương pháp phẫu thuật trong điều trị viêm tụy mạn gồm: - Phẫu thuật loại trừ tắc nghẽn ống tụy: Phương pháp này được thực hiện để dẫn lưu nang giả, giảm đau, điều trị biến chứng do viêm tụy mạn. - Phẫu thuật dẫn lưu ống tụy: Phương pháp này được chỉ định để làm giãn ống tụy hay cắt đuôi tụy nối thông tụy – hỗng tràng nhằm giảm đau cho người bệnh. - Phẫu thuật cắt tụy: Cắt tụy một phần hay toàn phần được xem là phương pháp điều trị cuối cùng cho người bệnh viêm tụy mạn tiến triển nghiêm trọng. Phương pháp này giúp ngăn ngừa nguy cơ vỡ ống tụy và những biến chứng khác. - Phong bế cắt đám rối thần kinh qua nội soi siêu âm hoặc qua da: Phương pháp này giúp giảm đau do viêm tụy mạn.",
+                "Bác sĩ sẽ căn cứ vào mức độ nghiêm trọng của tình trạng viêm để chỉ định phương pháp điều trị phù hợp. Cụ thể như sau:",
+                "Phương pháp này có thể thực hiện dưới dạng mổ hở với vết rạch trên bụng dài khoảng 5 – 10cm hoặc mổ nổi soi với vết rạch nhỏ hơn. Đối với thủ thuật thứ hai, bác sĩ sẽ chèn các dụng cụ đặc biệt cùng một máy quay video vào bụng để tiến hành cắt bỏ ruột thừa tổn thương. Phương pháp này thường được ưu tiên lựa chọn bởi thời gian hồi phục nhanh, ít đau và để lại sẹo. Nội soi đồng thời cũng phù hợp hơn đối với người cao tuổi và người béo phì.(4) Tuy nhiên, nếu ruột thừa đã bị vỡ, nhiễm trùng lan ra ngoài hoặc xuất hiện áp xe, người bệnh buộc phải tiến hành mổ hở để làm sạch khoang bụng. Sau phãu thuật, bác sĩ sẽ chỉ định ở lại bệnh viện từ 1 – 2 ngày để theo dõi và chăm sóc.",
+                "Nếu ruột thừa bị vỡ và đã hình thành áp xe xung quanh, bác sĩ sẽ tiến hành dẫn lưu bằng cách đặt một đường ống đi xuyên qua da vào khối mủ. Phẫu thuật cắt bỏ cơ quan cũng tiếp tục được thực hiện sau đó khoảng vài tuần khi nhiễm trùng đã được kiểm soát.",
+                "Sau khi thực hiện cắt bỏ ruột thừa do viêm, người bệnh cần thực hiện các biện pháp chăm sóc sau đây để đảm bảo vết thương được phục hồi hiệu quả: - Trong giai đoạn đầu sau phẫu thuật, người bệnh cần tránh hoạt động quá sức (khoảng 3 – 5 ngày đối với mổ nội soi và 10 – 14 ngày đối với mổ hở). - Đặt một chiếc gối lên bụng và ấn nhẹ trước khi ho, cười hoặc di chuyển để giúp giảm đau. - Liên hệ với bác sĩ nếu thuốc giảm đau không có hiệu quả để tránh làm chậm quá trình chữa lành vết thương. - Sau thời gian nghỉ ngơi được chỉ định, người bệnh nên bắt đầu hoạt động nhẹ nhàng, chẳng hạn như những cuộc đi bộ ngắn. - Khi cơ thể hồi phục, cảm giác buồn ngủ sẽ tăng lên, lúc này hãy nghỉ ngơi thoải mái theo nhu cầu.",
+                "Việc điều trị viêm tuỵ sẽ căn cứ theo hai loại viêm: Viêm tụy cấp tính và viêm tụy mãn tính.(6)",
+                "Bác sĩ Trung cho biết, trong quản lý viêm tuỵ cấp do mọi nguyên nhân thì giảm đau, bù dịch là hai nguyên tắc nền tảng quan trọng nhất. Tiếp theo là giải quyết nguyên nhân (nếu có) như giảm mỡ máu (triglyceride), can thiệp sỏi mật, chấn thương… Điều trị kháng sinh nếu có bằng chứng nhiễm trùng. Và đặc biệt xem xét cho bệnh nhân ăn sớm trong vòng 24h-72h sau nhập viện tùy theo mức độ viêm tụy cũng như khả năng dung nạp thức ăn qua đường miệng hoặc qua sonde dạ dày. - Giảm đau: Người bệnh được giảm đau tích cực với các thuốc giảm đau - Bù dịch: Tuỳ mức độ nặng và bệnh lý kèm theo, người bệnh có thể được truyền dung dịch Ringer lactat hoặc Sodium cloride 0.9%. Lưu ý, người bệnh cần được theo dõi sát lượng nước tiểu, sinh hiệu, xét nghiệm máu như dung tích hồng cầu, nồng độ urea máu để xác định chính xác lượng dịch truyền cần thiết, tránh tình trạng quá nhiều hoặc thiếu dịch. Tùy theo mức độ nặng nhẹ cũng như khả năng dung nạp mà người bệnh viêm tụy cấp được khuyến cáo cho ăn sớm trong vòng 24h-72h sau nhập viện. Nếu bệnh nhân không dung nạp bằng đường miệng có thể nuôi ăn qua sonde dạ dày. Những trường hợp chống chỉ định nuôi ăn sớm như liệt ruột, tắc ruột…có thể nuôi ăn đường tĩnh mạch thay thế. Bác sĩ Trung cho hay",
+                "trong vòng 24h-72h sau nhập viện. Nếu bệnh nhân không dung nạp bằng đường miệng có thể nuôi ăn qua sonde dạ dày. Những trường hợp chống chỉ định nuôi ăn sớm như liệt ruột, tắc ruột…có thể nuôi ăn đường tĩnh mạch thay thế. Bác sĩ Trung cho hay “việc nuôi ăn sớm giúp ngăn ngừa các biến chứng nguy hiểm như suy đa cơ quan, viêm tụy cấp hoại tử, điều này sẽ không có được nếu bệnh nhân được nuôi ăn đường ruột quá trễ”.",
+                "Việc lạm dụng kháng sinh trong viêm tụy cấp nếu không có bằng chứng nhiễm trùng đôi khi làm chậm trễ việc bù dịch và điều trị nguyên nhân ban đầu trong cấp cứu viêm tụy cấp. Tất cả những khuyến cáo về điều trị viêm tụy cấp đều không đồng thuận việc sử dụng kháng sinh nhằm mục đích phòng ngừa nhiễm trùng.",
+                "Bệnh nhân viêm tụy mạn thường có những triệu chứng và/hoặc biến chứng như đau bụng mạn tính, suy dinh dưỡng, tiêu phân mỡ do thiếu men tuỵ, đái tháo đường do rối loạn men tuỵ nội tiết và thậm chí ung thư tuỵ. Do đó, trong điều trị viêm tụy mạn tập trung chủ yếu vào việc cải thiện các triệu chứng, giúp ngăn ngừa bệnh tiến triển cũng như phát hiện và điều trị kịp thời biến chứng ung thư tuỵ. - Điều trị nguyên nhân như ngưng rượu, thuốc lá, sỏi mật, tăng triglyceride máu… để ngăn ngừa viêm tụy tái phát. - Giảm đau nếu bệnh nhân viêm tụy mạn bị đau nhiều. Có thể dùng thuốc hoặc nội soi lấy sỏi tuỵ, thậm chí can thiệp phẫu thuật sỏi tuỵ nếu cần để giảm đau. - Điều trị hỗ trợ men tụy ở những bệnh nhân có bằng chứng thiếu men tuỵ ngoại tiết. - Điều trị với insulin nếu bệnh nhân có biến chứng đái tháo đường, đồng thời theo dõi định kỳ nhằm phát hiện sớm ung thư tuỵ"
+            ],
+            "metadatas": [
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "hoi-chung-ruot-kich-thich"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "hoi-chung-ruot-kich-thich"
+                },
+                {
+                    "doc_name": "viem-tuy-man-tinh",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy-man-tinh"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-ruot-thua"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-ruot-thua"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                }
+            ]
+        },
+        "prompt": [
+            {
+                "role": "system",
+                "content": "\n        Bạn là một chuyên gia y tế.\n        - Chỉ dựa vào nội dung được cung cấp (context) để trả lời.\n        - Không tự bịa thêm thông tin không có trong context.\n        - Nếu thông tin không đủ để trả lời, hãy trả lời lịch sự rằng không đủ dữ liệu.\n        - Nếu thông tin (context) không khớp với câu hỏi (ví dụ câu hỏi về bệnh \"đau mắt đỏ\" nhưng kết quả chỉ trả về \"đau mắt\"), hãy trả lời rằng không đủ dữ liệu.\n        - Nếu câu hỏi không liên quan đến y tế, hãy trả lời rằng không phải lĩnh vực của bạn.\n        - Chỉ trả lời bằng tiếng Việt.\n    "
+            },
+            {
+                "role": "user",
+                "content": "\n    Dưới đây là một số thông tin y tế (context):\n\n    None\n\n    Câu hỏi:\n    tôi bị đau bụng phải làm sao\n    "
+            }
+        ],
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        }
+    },
+    {
+        "timestamp": "2025-05-24T19:08:28.052064",
+        "user_message": "tôi bị đau bụng phải làm sao",
+        "bot_response": "Xin lỗi, nhưng không đủ dữ liệu để đưa ra lời khuyên về tình trạng đau bụng của bạn. Bạn nên tham khảo ý kiến bác sĩ hoặc chuyên gia y tế để được tư vấn cụ thể.",
+        "response_time_seconds": 3.09,
+        "chromadb_data": {
+            "documents": [
+                "Điều trị hội chứng ruột kích thích tập trung nhiều vào chế độ ăn và dinh dưỡng, kết hợp với uống thuốc điều trị triệu chứng nổi trội và thay đổi lối sống khoa học để phục hồi và cải thiện chức năng đại tràng. IBS có phác đồ điều trị tập trung vào các triệu chứng cụ thể mà mỗi người bệnh gặp. Vì thế, bác sĩ sẽ chỉ định các loại thuốc dựa theo triệu chứng bệnh, đồng thời, hướng dẫn người bệnh về chế độ dinh dưỡng, các chất cần bổ sung và những loại thực phẩm, các chất cần tránh do gây dị ứng nếu có. Những loại thuốc thường được sử dụng trong quá trình điều trị hội chứng ruột kích thích gồm: - Thuốc chống co thắt - Thuốc điều trị tiêu chảy - Thuốc điều trị táo bón - Các thực phẩm chức năng bổ sung chất xơ - Thuốc an thần, giảm lo âu - Lợi khuẩn đường ruột Ngoài ra, người bệnh còn cần thực hiện theo chế độ ăn phù hợp, bổ sung nhiều chất xơ đến từ rau củ quả. Đồng thời, hạn chế tối đa các thực phẩm có chứa nhiều gluten như lúa mì, yến mạch, ngũ cốc. Đối với người có kết quả dị ứng với protein trong những loại thực phẩm này cần loại bỏ hoàn toàn ra khỏi thực đơn của mình. Người bệnh IBS được khuyến khích ăn theo chế độ FODMAP thấp để ổn định ruột già và",
+                "mì, yến mạch, ngũ cốc. Đối với người có kết quả dị ứng với protein trong những loại thực phẩm này cần loại bỏ hoàn toàn ra khỏi thực đơn của mình. Người bệnh IBS được khuyến khích ăn theo chế độ FODMAP thấp để ổn định ruột già và cải thiện sức khỏe hệ tiêu hóa. Đây là chế độ kiêng ăn các loại thực phẩm là carbohydrate chuỗi ngắn như táo, dưa hấu, hoa quả đóng hộp nói chung, sữa tươi có lactose, phô mai, sữa chua, fructose và các loại trái cây có lượng fructose cao, mật ong, các loại cây họ đậu, củ dền, bông cải xanh, lúa mì và các loại đồ uống có cồn. ﻿",
+                "Người bệnh cần thay đổi chế độ sinh hoạt: Tuyệt đối không dùng rượu, bia không hút thuốc lá, giảm đồ ăn nhiều chất béo và tinh bột đặc biệt khi có tăng mỡ máu. Triệu chứng tiêu phân mỡ sẽ được điều trị bằng những chế phẩm men tụy được chọn dựa theo hoạt độ lipase cao. Liều thường khoảng 25.000- 50.000 đơn vị lipase trong viên nang, được sử dụng trong bữa ăn. Sử dụng đồng thời thuốc ức chế bơm proton (omeprazol 20 – 60 mg/ngày) giúp giảm sự bất hoạt của lipase do axit, nhờ đó cải thiện triệu chứng đi tiêu phân mỡ. Đau thứ phát do viêm tụy mạn tự phát có thể thuyên giảm trong một số trường hợp bằng cách sử dụng những enzym tụy hay thuốc giảm đau. Nếu có đi kèm đái tháo đường, người bệnh cần được điều trị theo cách thông thường bằng việc sử dụng insulin. (3)",
+                "Những phương pháp phẫu thuật trong điều trị viêm tụy mạn gồm: - Phẫu thuật loại trừ tắc nghẽn ống tụy: Phương pháp này được thực hiện để dẫn lưu nang giả, giảm đau, điều trị biến chứng do viêm tụy mạn. - Phẫu thuật dẫn lưu ống tụy: Phương pháp này được chỉ định để làm giãn ống tụy hay cắt đuôi tụy nối thông tụy – hỗng tràng nhằm giảm đau cho người bệnh. - Phẫu thuật cắt tụy: Cắt tụy một phần hay toàn phần được xem là phương pháp điều trị cuối cùng cho người bệnh viêm tụy mạn tiến triển nghiêm trọng. Phương pháp này giúp ngăn ngừa nguy cơ vỡ ống tụy và những biến chứng khác. - Phong bế cắt đám rối thần kinh qua nội soi siêu âm hoặc qua da: Phương pháp này giúp giảm đau do viêm tụy mạn.",
+                "Bác sĩ sẽ căn cứ vào mức độ nghiêm trọng của tình trạng viêm để chỉ định phương pháp điều trị phù hợp. Cụ thể như sau:",
+                "Phương pháp này có thể thực hiện dưới dạng mổ hở với vết rạch trên bụng dài khoảng 5 – 10cm hoặc mổ nổi soi với vết rạch nhỏ hơn. Đối với thủ thuật thứ hai, bác sĩ sẽ chèn các dụng cụ đặc biệt cùng một máy quay video vào bụng để tiến hành cắt bỏ ruột thừa tổn thương. Phương pháp này thường được ưu tiên lựa chọn bởi thời gian hồi phục nhanh, ít đau và để lại sẹo. Nội soi đồng thời cũng phù hợp hơn đối với người cao tuổi và người béo phì.(4) Tuy nhiên, nếu ruột thừa đã bị vỡ, nhiễm trùng lan ra ngoài hoặc xuất hiện áp xe, người bệnh buộc phải tiến hành mổ hở để làm sạch khoang bụng. Sau phãu thuật, bác sĩ sẽ chỉ định ở lại bệnh viện từ 1 – 2 ngày để theo dõi và chăm sóc.",
+                "Nếu ruột thừa bị vỡ và đã hình thành áp xe xung quanh, bác sĩ sẽ tiến hành dẫn lưu bằng cách đặt một đường ống đi xuyên qua da vào khối mủ. Phẫu thuật cắt bỏ cơ quan cũng tiếp tục được thực hiện sau đó khoảng vài tuần khi nhiễm trùng đã được kiểm soát.",
+                "Sau khi thực hiện cắt bỏ ruột thừa do viêm, người bệnh cần thực hiện các biện pháp chăm sóc sau đây để đảm bảo vết thương được phục hồi hiệu quả: - Trong giai đoạn đầu sau phẫu thuật, người bệnh cần tránh hoạt động quá sức (khoảng 3 – 5 ngày đối với mổ nội soi và 10 – 14 ngày đối với mổ hở). - Đặt một chiếc gối lên bụng và ấn nhẹ trước khi ho, cười hoặc di chuyển để giúp giảm đau. - Liên hệ với bác sĩ nếu thuốc giảm đau không có hiệu quả để tránh làm chậm quá trình chữa lành vết thương. - Sau thời gian nghỉ ngơi được chỉ định, người bệnh nên bắt đầu hoạt động nhẹ nhàng, chẳng hạn như những cuộc đi bộ ngắn. - Khi cơ thể hồi phục, cảm giác buồn ngủ sẽ tăng lên, lúc này hãy nghỉ ngơi thoải mái theo nhu cầu.",
+                "Việc điều trị viêm tuỵ sẽ căn cứ theo hai loại viêm: Viêm tụy cấp tính và viêm tụy mãn tính.(6)",
+                "Bác sĩ Trung cho biết, trong quản lý viêm tuỵ cấp do mọi nguyên nhân thì giảm đau, bù dịch là hai nguyên tắc nền tảng quan trọng nhất. Tiếp theo là giải quyết nguyên nhân (nếu có) như giảm mỡ máu (triglyceride), can thiệp sỏi mật, chấn thương… Điều trị kháng sinh nếu có bằng chứng nhiễm trùng. Và đặc biệt xem xét cho bệnh nhân ăn sớm trong vòng 24h-72h sau nhập viện tùy theo mức độ viêm tụy cũng như khả năng dung nạp thức ăn qua đường miệng hoặc qua sonde dạ dày. - Giảm đau: Người bệnh được giảm đau tích cực với các thuốc giảm đau - Bù dịch: Tuỳ mức độ nặng và bệnh lý kèm theo, người bệnh có thể được truyền dung dịch Ringer lactat hoặc Sodium cloride 0.9%. Lưu ý, người bệnh cần được theo dõi sát lượng nước tiểu, sinh hiệu, xét nghiệm máu như dung tích hồng cầu, nồng độ urea máu để xác định chính xác lượng dịch truyền cần thiết, tránh tình trạng quá nhiều hoặc thiếu dịch. Tùy theo mức độ nặng nhẹ cũng như khả năng dung nạp mà người bệnh viêm tụy cấp được khuyến cáo cho ăn sớm trong vòng 24h-72h sau nhập viện. Nếu bệnh nhân không dung nạp bằng đường miệng có thể nuôi ăn qua sonde dạ dày. Những trường hợp chống chỉ định nuôi ăn sớm như liệt ruột, tắc ruột…có thể nuôi ăn đường tĩnh mạch thay thế. Bác sĩ Trung cho hay",
+                "trong vòng 24h-72h sau nhập viện. Nếu bệnh nhân không dung nạp bằng đường miệng có thể nuôi ăn qua sonde dạ dày. Những trường hợp chống chỉ định nuôi ăn sớm như liệt ruột, tắc ruột…có thể nuôi ăn đường tĩnh mạch thay thế. Bác sĩ Trung cho hay “việc nuôi ăn sớm giúp ngăn ngừa các biến chứng nguy hiểm như suy đa cơ quan, viêm tụy cấp hoại tử, điều này sẽ không có được nếu bệnh nhân được nuôi ăn đường ruột quá trễ”.",
+                "Việc lạm dụng kháng sinh trong viêm tụy cấp nếu không có bằng chứng nhiễm trùng đôi khi làm chậm trễ việc bù dịch và điều trị nguyên nhân ban đầu trong cấp cứu viêm tụy cấp. Tất cả những khuyến cáo về điều trị viêm tụy cấp đều không đồng thuận việc sử dụng kháng sinh nhằm mục đích phòng ngừa nhiễm trùng.",
+                "Bệnh nhân viêm tụy mạn thường có những triệu chứng và/hoặc biến chứng như đau bụng mạn tính, suy dinh dưỡng, tiêu phân mỡ do thiếu men tuỵ, đái tháo đường do rối loạn men tuỵ nội tiết và thậm chí ung thư tuỵ. Do đó, trong điều trị viêm tụy mạn tập trung chủ yếu vào việc cải thiện các triệu chứng, giúp ngăn ngừa bệnh tiến triển cũng như phát hiện và điều trị kịp thời biến chứng ung thư tuỵ. - Điều trị nguyên nhân như ngưng rượu, thuốc lá, sỏi mật, tăng triglyceride máu… để ngăn ngừa viêm tụy tái phát. - Giảm đau nếu bệnh nhân viêm tụy mạn bị đau nhiều. Có thể dùng thuốc hoặc nội soi lấy sỏi tuỵ, thậm chí can thiệp phẫu thuật sỏi tuỵ nếu cần để giảm đau. - Điều trị hỗ trợ men tụy ở những bệnh nhân có bằng chứng thiếu men tuỵ ngoại tiết. - Điều trị với insulin nếu bệnh nhân có biến chứng đái tháo đường, đồng thời theo dõi định kỳ nhằm phát hiện sớm ung thư tuỵ"
+            ],
+            "metadatas": [
+                {
+                    "doc_name": "hoi-chung-ruot-kich-thich",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "hoi-chung-ruot-kich-thich",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-tuy-man-tinh",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy-man-tinh"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-ruot-thua"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                }
+            ]
+        },
+        "prompt": [
+            {
+                "role": "system",
+                "content": "\n        Bạn là một chuyên gia y tế.\n        - Chỉ dựa vào nội dung được cung cấp (context) để trả lời.\n        - Không tự bịa thêm thông tin không có trong context.\n        - Nếu thông tin không đủ để trả lời, hãy trả lời lịch sự rằng không đủ dữ liệu.\n        - Nếu thông tin (context) không khớp với câu hỏi (ví dụ câu hỏi về bệnh \"đau mắt đỏ\" nhưng kết quả chỉ trả về \"đau mắt\"), hãy trả lời rằng không đủ dữ liệu.\n        - Nếu câu hỏi không liên quan đến y tế, hãy trả lời rằng không phải lĩnh vực của bạn.\n        - Chỉ trả lời bằng tiếng Việt.\n    "
+            },
+            {
+                "role": "user",
+                "content": "\n    Dưới đây là một số thông tin y tế (context):\n\n    None\n\n    Câu hỏi:\n    tôi bị đau bụng phải làm sao\n    "
+            }
+        ],
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        }
+    },
+    {
+        "timestamp": "2025-05-24T19:21:11.031235",
+        "user_message": "tôi bị đau bụng phải làm sao",
+        "bot_response": "Xin lỗi, nhưng không đủ dữ liệu để cung cấp thông tin về tình trạng đau bụng của bạn. Bạn nên tham khảo ý kiến bác sĩ để được tư vấn cụ thể.",
+        "response_time_seconds": 1.38,
+        "chromadb_data": {
+            "documents": [
+                "Điều trị hội chứng ruột kích thích tập trung nhiều vào chế độ ăn và dinh dưỡng, kết hợp với uống thuốc điều trị triệu chứng nổi trội và thay đổi lối sống khoa học để phục hồi và cải thiện chức năng đại tràng. IBS có phác đồ điều trị tập trung vào các triệu chứng cụ thể mà mỗi người bệnh gặp. Vì thế, bác sĩ sẽ chỉ định các loại thuốc dựa theo triệu chứng bệnh, đồng thời, hướng dẫn người bệnh về chế độ dinh dưỡng, các chất cần bổ sung và những loại thực phẩm, các chất cần tránh do gây dị ứng nếu có. Những loại thuốc thường được sử dụng trong quá trình điều trị hội chứng ruột kích thích gồm: - Thuốc chống co thắt - Thuốc điều trị tiêu chảy - Thuốc điều trị táo bón - Các thực phẩm chức năng bổ sung chất xơ - Thuốc an thần, giảm lo âu - Lợi khuẩn đường ruột Ngoài ra, người bệnh còn cần thực hiện theo chế độ ăn phù hợp, bổ sung nhiều chất xơ đến từ rau củ quả. Đồng thời, hạn chế tối đa các thực phẩm có chứa nhiều gluten như lúa mì, yến mạch, ngũ cốc. Đối với người có kết quả dị ứng với protein trong những loại thực phẩm này cần loại bỏ hoàn toàn ra khỏi thực đơn của mình. Người bệnh IBS được khuyến khích ăn theo chế độ FODMAP thấp để ổn định ruột già và",
+                "mì, yến mạch, ngũ cốc. Đối với người có kết quả dị ứng với protein trong những loại thực phẩm này cần loại bỏ hoàn toàn ra khỏi thực đơn của mình. Người bệnh IBS được khuyến khích ăn theo chế độ FODMAP thấp để ổn định ruột già và cải thiện sức khỏe hệ tiêu hóa. Đây là chế độ kiêng ăn các loại thực phẩm là carbohydrate chuỗi ngắn như táo, dưa hấu, hoa quả đóng hộp nói chung, sữa tươi có lactose, phô mai, sữa chua, fructose và các loại trái cây có lượng fructose cao, mật ong, các loại cây họ đậu, củ dền, bông cải xanh, lúa mì và các loại đồ uống có cồn. ﻿",
+                "Người bệnh cần thay đổi chế độ sinh hoạt: Tuyệt đối không dùng rượu, bia không hút thuốc lá, giảm đồ ăn nhiều chất béo và tinh bột đặc biệt khi có tăng mỡ máu. Triệu chứng tiêu phân mỡ sẽ được điều trị bằng những chế phẩm men tụy được chọn dựa theo hoạt độ lipase cao. Liều thường khoảng 25.000- 50.000 đơn vị lipase trong viên nang, được sử dụng trong bữa ăn. Sử dụng đồng thời thuốc ức chế bơm proton (omeprazol 20 – 60 mg/ngày) giúp giảm sự bất hoạt của lipase do axit, nhờ đó cải thiện triệu chứng đi tiêu phân mỡ. Đau thứ phát do viêm tụy mạn tự phát có thể thuyên giảm trong một số trường hợp bằng cách sử dụng những enzym tụy hay thuốc giảm đau. Nếu có đi kèm đái tháo đường, người bệnh cần được điều trị theo cách thông thường bằng việc sử dụng insulin. (3)",
+                "Những phương pháp phẫu thuật trong điều trị viêm tụy mạn gồm: - Phẫu thuật loại trừ tắc nghẽn ống tụy: Phương pháp này được thực hiện để dẫn lưu nang giả, giảm đau, điều trị biến chứng do viêm tụy mạn. - Phẫu thuật dẫn lưu ống tụy: Phương pháp này được chỉ định để làm giãn ống tụy hay cắt đuôi tụy nối thông tụy – hỗng tràng nhằm giảm đau cho người bệnh. - Phẫu thuật cắt tụy: Cắt tụy một phần hay toàn phần được xem là phương pháp điều trị cuối cùng cho người bệnh viêm tụy mạn tiến triển nghiêm trọng. Phương pháp này giúp ngăn ngừa nguy cơ vỡ ống tụy và những biến chứng khác. - Phong bế cắt đám rối thần kinh qua nội soi siêu âm hoặc qua da: Phương pháp này giúp giảm đau do viêm tụy mạn.",
+                "Bác sĩ sẽ căn cứ vào mức độ nghiêm trọng của tình trạng viêm để chỉ định phương pháp điều trị phù hợp. Cụ thể như sau:",
+                "Phương pháp này có thể thực hiện dưới dạng mổ hở với vết rạch trên bụng dài khoảng 5 – 10cm hoặc mổ nổi soi với vết rạch nhỏ hơn. Đối với thủ thuật thứ hai, bác sĩ sẽ chèn các dụng cụ đặc biệt cùng một máy quay video vào bụng để tiến hành cắt bỏ ruột thừa tổn thương. Phương pháp này thường được ưu tiên lựa chọn bởi thời gian hồi phục nhanh, ít đau và để lại sẹo. Nội soi đồng thời cũng phù hợp hơn đối với người cao tuổi và người béo phì.(4) Tuy nhiên, nếu ruột thừa đã bị vỡ, nhiễm trùng lan ra ngoài hoặc xuất hiện áp xe, người bệnh buộc phải tiến hành mổ hở để làm sạch khoang bụng. Sau phãu thuật, bác sĩ sẽ chỉ định ở lại bệnh viện từ 1 – 2 ngày để theo dõi và chăm sóc.",
+                "Nếu ruột thừa bị vỡ và đã hình thành áp xe xung quanh, bác sĩ sẽ tiến hành dẫn lưu bằng cách đặt một đường ống đi xuyên qua da vào khối mủ. Phẫu thuật cắt bỏ cơ quan cũng tiếp tục được thực hiện sau đó khoảng vài tuần khi nhiễm trùng đã được kiểm soát.",
+                "Sau khi thực hiện cắt bỏ ruột thừa do viêm, người bệnh cần thực hiện các biện pháp chăm sóc sau đây để đảm bảo vết thương được phục hồi hiệu quả: - Trong giai đoạn đầu sau phẫu thuật, người bệnh cần tránh hoạt động quá sức (khoảng 3 – 5 ngày đối với mổ nội soi và 10 – 14 ngày đối với mổ hở). - Đặt một chiếc gối lên bụng và ấn nhẹ trước khi ho, cười hoặc di chuyển để giúp giảm đau. - Liên hệ với bác sĩ nếu thuốc giảm đau không có hiệu quả để tránh làm chậm quá trình chữa lành vết thương. - Sau thời gian nghỉ ngơi được chỉ định, người bệnh nên bắt đầu hoạt động nhẹ nhàng, chẳng hạn như những cuộc đi bộ ngắn. - Khi cơ thể hồi phục, cảm giác buồn ngủ sẽ tăng lên, lúc này hãy nghỉ ngơi thoải mái theo nhu cầu.",
+                "Việc điều trị viêm tuỵ sẽ căn cứ theo hai loại viêm: Viêm tụy cấp tính và viêm tụy mãn tính.(6)",
+                "Bác sĩ Trung cho biết, trong quản lý viêm tuỵ cấp do mọi nguyên nhân thì giảm đau, bù dịch là hai nguyên tắc nền tảng quan trọng nhất. Tiếp theo là giải quyết nguyên nhân (nếu có) như giảm mỡ máu (triglyceride), can thiệp sỏi mật, chấn thương… Điều trị kháng sinh nếu có bằng chứng nhiễm trùng. Và đặc biệt xem xét cho bệnh nhân ăn sớm trong vòng 24h-72h sau nhập viện tùy theo mức độ viêm tụy cũng như khả năng dung nạp thức ăn qua đường miệng hoặc qua sonde dạ dày. - Giảm đau: Người bệnh được giảm đau tích cực với các thuốc giảm đau - Bù dịch: Tuỳ mức độ nặng và bệnh lý kèm theo, người bệnh có thể được truyền dung dịch Ringer lactat hoặc Sodium cloride 0.9%. Lưu ý, người bệnh cần được theo dõi sát lượng nước tiểu, sinh hiệu, xét nghiệm máu như dung tích hồng cầu, nồng độ urea máu để xác định chính xác lượng dịch truyền cần thiết, tránh tình trạng quá nhiều hoặc thiếu dịch. Tùy theo mức độ nặng nhẹ cũng như khả năng dung nạp mà người bệnh viêm tụy cấp được khuyến cáo cho ăn sớm trong vòng 24h-72h sau nhập viện. Nếu bệnh nhân không dung nạp bằng đường miệng có thể nuôi ăn qua sonde dạ dày. Những trường hợp chống chỉ định nuôi ăn sớm như liệt ruột, tắc ruột…có thể nuôi ăn đường tĩnh mạch thay thế. Bác sĩ Trung cho hay",
+                "trong vòng 24h-72h sau nhập viện. Nếu bệnh nhân không dung nạp bằng đường miệng có thể nuôi ăn qua sonde dạ dày. Những trường hợp chống chỉ định nuôi ăn sớm như liệt ruột, tắc ruột…có thể nuôi ăn đường tĩnh mạch thay thế. Bác sĩ Trung cho hay “việc nuôi ăn sớm giúp ngăn ngừa các biến chứng nguy hiểm như suy đa cơ quan, viêm tụy cấp hoại tử, điều này sẽ không có được nếu bệnh nhân được nuôi ăn đường ruột quá trễ”.",
+                "Việc lạm dụng kháng sinh trong viêm tụy cấp nếu không có bằng chứng nhiễm trùng đôi khi làm chậm trễ việc bù dịch và điều trị nguyên nhân ban đầu trong cấp cứu viêm tụy cấp. Tất cả những khuyến cáo về điều trị viêm tụy cấp đều không đồng thuận việc sử dụng kháng sinh nhằm mục đích phòng ngừa nhiễm trùng.",
+                "Bệnh nhân viêm tụy mạn thường có những triệu chứng và/hoặc biến chứng như đau bụng mạn tính, suy dinh dưỡng, tiêu phân mỡ do thiếu men tuỵ, đái tháo đường do rối loạn men tuỵ nội tiết và thậm chí ung thư tuỵ. Do đó, trong điều trị viêm tụy mạn tập trung chủ yếu vào việc cải thiện các triệu chứng, giúp ngăn ngừa bệnh tiến triển cũng như phát hiện và điều trị kịp thời biến chứng ung thư tuỵ. - Điều trị nguyên nhân như ngưng rượu, thuốc lá, sỏi mật, tăng triglyceride máu… để ngăn ngừa viêm tụy tái phát. - Giảm đau nếu bệnh nhân viêm tụy mạn bị đau nhiều. Có thể dùng thuốc hoặc nội soi lấy sỏi tuỵ, thậm chí can thiệp phẫu thuật sỏi tuỵ nếu cần để giảm đau. - Điều trị hỗ trợ men tụy ở những bệnh nhân có bằng chứng thiếu men tuỵ ngoại tiết. - Điều trị với insulin nếu bệnh nhân có biến chứng đái tháo đường, đồng thời theo dõi định kỳ nhằm phát hiện sớm ung thư tuỵ"
+            ],
+            "metadatas": [
+                {
+                    "doc_name": "hoi-chung-ruot-kich-thich",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "hoi-chung-ruot-kich-thich",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-tuy-man-tinh",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy-man-tinh"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "điều trị"
+                }
+            ]
+        },
+        "prompt": [
+            {
+                "role": "system",
+                "content": "\n        Bạn là một chuyên gia y tế.\n        - Chỉ dựa vào nội dung được cung cấp (context) để trả lời.\n        - Không tự bịa thêm thông tin không có trong context.\n        - Nếu thông tin không đủ để trả lời, hãy trả lời lịch sự rằng không đủ dữ liệu.\n        - Nếu thông tin (context) không khớp với câu hỏi (ví dụ câu hỏi về bệnh \"đau mắt đỏ\" nhưng kết quả chỉ trả về \"đau mắt\"), hãy trả lời rằng không đủ dữ liệu.\n        - Nếu câu hỏi không liên quan đến y tế, hãy trả lời rằng không phải lĩnh vực của bạn.\n        - Chỉ trả lời bằng tiếng Việt.\n    "
+            },
+            {
+                "role": "user",
+                "content": "\n    Dưới đây là một số thông tin y tế (context):\n\n    None\n\n    Câu hỏi:\n    tôi bị đau bụng phải làm sao\n    "
+            }
+        ],
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        }
+    },
+    {
+        "timestamp": "2025-05-24T19:26:18.500186",
+        "user_message": "tôi bị đau bụng phải làm sao",
+        "bot_response": "Xin lỗi, nhưng không đủ dữ liệu để cung cấp thông tin về tình trạng đau bụng của bạn. Bạn nên tham khảo ý kiến bác sĩ để được tư vấn cụ thể.",
+        "response_time_seconds": 1.57,
+        "chromadb_data": {
+            "documents": [
+                "Điều trị hội chứng ruột kích thích tập trung nhiều vào chế độ ăn và dinh dưỡng, kết hợp với uống thuốc điều trị triệu chứng nổi trội và thay đổi lối sống khoa học để phục hồi và cải thiện chức năng đại tràng. IBS có phác đồ điều trị tập trung vào các triệu chứng cụ thể mà mỗi người bệnh gặp. Vì thế, bác sĩ sẽ chỉ định các loại thuốc dựa theo triệu chứng bệnh, đồng thời, hướng dẫn người bệnh về chế độ dinh dưỡng, các chất cần bổ sung và những loại thực phẩm, các chất cần tránh do gây dị ứng nếu có. Những loại thuốc thường được sử dụng trong quá trình điều trị hội chứng ruột kích thích gồm: - Thuốc chống co thắt - Thuốc điều trị tiêu chảy - Thuốc điều trị táo bón - Các thực phẩm chức năng bổ sung chất xơ - Thuốc an thần, giảm lo âu - Lợi khuẩn đường ruột Ngoài ra, người bệnh còn cần thực hiện theo chế độ ăn phù hợp, bổ sung nhiều chất xơ đến từ rau củ quả. Đồng thời, hạn chế tối đa các thực phẩm có chứa nhiều gluten như lúa mì, yến mạch, ngũ cốc. Đối với người có kết quả dị ứng với protein trong những loại thực phẩm này cần loại bỏ hoàn toàn ra khỏi thực đơn của mình. Người bệnh IBS được khuyến khích ăn theo chế độ FODMAP thấp để ổn định ruột già và",
+                "mì, yến mạch, ngũ cốc. Đối với người có kết quả dị ứng với protein trong những loại thực phẩm này cần loại bỏ hoàn toàn ra khỏi thực đơn của mình. Người bệnh IBS được khuyến khích ăn theo chế độ FODMAP thấp để ổn định ruột già và cải thiện sức khỏe hệ tiêu hóa. Đây là chế độ kiêng ăn các loại thực phẩm là carbohydrate chuỗi ngắn như táo, dưa hấu, hoa quả đóng hộp nói chung, sữa tươi có lactose, phô mai, sữa chua, fructose và các loại trái cây có lượng fructose cao, mật ong, các loại cây họ đậu, củ dền, bông cải xanh, lúa mì và các loại đồ uống có cồn. ﻿",
+                "Người bệnh cần thay đổi chế độ sinh hoạt: Tuyệt đối không dùng rượu, bia không hút thuốc lá, giảm đồ ăn nhiều chất béo và tinh bột đặc biệt khi có tăng mỡ máu. Triệu chứng tiêu phân mỡ sẽ được điều trị bằng những chế phẩm men tụy được chọn dựa theo hoạt độ lipase cao. Liều thường khoảng 25.000- 50.000 đơn vị lipase trong viên nang, được sử dụng trong bữa ăn. Sử dụng đồng thời thuốc ức chế bơm proton (omeprazol 20 – 60 mg/ngày) giúp giảm sự bất hoạt của lipase do axit, nhờ đó cải thiện triệu chứng đi tiêu phân mỡ. Đau thứ phát do viêm tụy mạn tự phát có thể thuyên giảm trong một số trường hợp bằng cách sử dụng những enzym tụy hay thuốc giảm đau. Nếu có đi kèm đái tháo đường, người bệnh cần được điều trị theo cách thông thường bằng việc sử dụng insulin. (3)",
+                "Những phương pháp phẫu thuật trong điều trị viêm tụy mạn gồm: - Phẫu thuật loại trừ tắc nghẽn ống tụy: Phương pháp này được thực hiện để dẫn lưu nang giả, giảm đau, điều trị biến chứng do viêm tụy mạn. - Phẫu thuật dẫn lưu ống tụy: Phương pháp này được chỉ định để làm giãn ống tụy hay cắt đuôi tụy nối thông tụy – hỗng tràng nhằm giảm đau cho người bệnh. - Phẫu thuật cắt tụy: Cắt tụy một phần hay toàn phần được xem là phương pháp điều trị cuối cùng cho người bệnh viêm tụy mạn tiến triển nghiêm trọng. Phương pháp này giúp ngăn ngừa nguy cơ vỡ ống tụy và những biến chứng khác. - Phong bế cắt đám rối thần kinh qua nội soi siêu âm hoặc qua da: Phương pháp này giúp giảm đau do viêm tụy mạn.",
+                "Bác sĩ sẽ căn cứ vào mức độ nghiêm trọng của tình trạng viêm để chỉ định phương pháp điều trị phù hợp. Cụ thể như sau:",
+                "Phương pháp này có thể thực hiện dưới dạng mổ hở với vết rạch trên bụng dài khoảng 5 – 10cm hoặc mổ nổi soi với vết rạch nhỏ hơn. Đối với thủ thuật thứ hai, bác sĩ sẽ chèn các dụng cụ đặc biệt cùng một máy quay video vào bụng để tiến hành cắt bỏ ruột thừa tổn thương. Phương pháp này thường được ưu tiên lựa chọn bởi thời gian hồi phục nhanh, ít đau và để lại sẹo. Nội soi đồng thời cũng phù hợp hơn đối với người cao tuổi và người béo phì.(4) Tuy nhiên, nếu ruột thừa đã bị vỡ, nhiễm trùng lan ra ngoài hoặc xuất hiện áp xe, người bệnh buộc phải tiến hành mổ hở để làm sạch khoang bụng. Sau phãu thuật, bác sĩ sẽ chỉ định ở lại bệnh viện từ 1 – 2 ngày để theo dõi và chăm sóc.",
+                "Nếu ruột thừa bị vỡ và đã hình thành áp xe xung quanh, bác sĩ sẽ tiến hành dẫn lưu bằng cách đặt một đường ống đi xuyên qua da vào khối mủ. Phẫu thuật cắt bỏ cơ quan cũng tiếp tục được thực hiện sau đó khoảng vài tuần khi nhiễm trùng đã được kiểm soát.",
+                "Sau khi thực hiện cắt bỏ ruột thừa do viêm, người bệnh cần thực hiện các biện pháp chăm sóc sau đây để đảm bảo vết thương được phục hồi hiệu quả: - Trong giai đoạn đầu sau phẫu thuật, người bệnh cần tránh hoạt động quá sức (khoảng 3 – 5 ngày đối với mổ nội soi và 10 – 14 ngày đối với mổ hở). - Đặt một chiếc gối lên bụng và ấn nhẹ trước khi ho, cười hoặc di chuyển để giúp giảm đau. - Liên hệ với bác sĩ nếu thuốc giảm đau không có hiệu quả để tránh làm chậm quá trình chữa lành vết thương. - Sau thời gian nghỉ ngơi được chỉ định, người bệnh nên bắt đầu hoạt động nhẹ nhàng, chẳng hạn như những cuộc đi bộ ngắn. - Khi cơ thể hồi phục, cảm giác buồn ngủ sẽ tăng lên, lúc này hãy nghỉ ngơi thoải mái theo nhu cầu.",
+                "Việc điều trị viêm tuỵ sẽ căn cứ theo hai loại viêm: Viêm tụy cấp tính và viêm tụy mãn tính.(6)",
+                "Bác sĩ Trung cho biết, trong quản lý viêm tuỵ cấp do mọi nguyên nhân thì giảm đau, bù dịch là hai nguyên tắc nền tảng quan trọng nhất. Tiếp theo là giải quyết nguyên nhân (nếu có) như giảm mỡ máu (triglyceride), can thiệp sỏi mật, chấn thương… Điều trị kháng sinh nếu có bằng chứng nhiễm trùng. Và đặc biệt xem xét cho bệnh nhân ăn sớm trong vòng 24h-72h sau nhập viện tùy theo mức độ viêm tụy cũng như khả năng dung nạp thức ăn qua đường miệng hoặc qua sonde dạ dày. - Giảm đau: Người bệnh được giảm đau tích cực với các thuốc giảm đau - Bù dịch: Tuỳ mức độ nặng và bệnh lý kèm theo, người bệnh có thể được truyền dung dịch Ringer lactat hoặc Sodium cloride 0.9%. Lưu ý, người bệnh cần được theo dõi sát lượng nước tiểu, sinh hiệu, xét nghiệm máu như dung tích hồng cầu, nồng độ urea máu để xác định chính xác lượng dịch truyền cần thiết, tránh tình trạng quá nhiều hoặc thiếu dịch. Tùy theo mức độ nặng nhẹ cũng như khả năng dung nạp mà người bệnh viêm tụy cấp được khuyến cáo cho ăn sớm trong vòng 24h-72h sau nhập viện. Nếu bệnh nhân không dung nạp bằng đường miệng có thể nuôi ăn qua sonde dạ dày. Những trường hợp chống chỉ định nuôi ăn sớm như liệt ruột, tắc ruột…có thể nuôi ăn đường tĩnh mạch thay thế. Bác sĩ Trung cho hay",
+                "trong vòng 24h-72h sau nhập viện. Nếu bệnh nhân không dung nạp bằng đường miệng có thể nuôi ăn qua sonde dạ dày. Những trường hợp chống chỉ định nuôi ăn sớm như liệt ruột, tắc ruột…có thể nuôi ăn đường tĩnh mạch thay thế. Bác sĩ Trung cho hay “việc nuôi ăn sớm giúp ngăn ngừa các biến chứng nguy hiểm như suy đa cơ quan, viêm tụy cấp hoại tử, điều này sẽ không có được nếu bệnh nhân được nuôi ăn đường ruột quá trễ”.",
+                "Việc lạm dụng kháng sinh trong viêm tụy cấp nếu không có bằng chứng nhiễm trùng đôi khi làm chậm trễ việc bù dịch và điều trị nguyên nhân ban đầu trong cấp cứu viêm tụy cấp. Tất cả những khuyến cáo về điều trị viêm tụy cấp đều không đồng thuận việc sử dụng kháng sinh nhằm mục đích phòng ngừa nhiễm trùng.",
+                "Bệnh nhân viêm tụy mạn thường có những triệu chứng và/hoặc biến chứng như đau bụng mạn tính, suy dinh dưỡng, tiêu phân mỡ do thiếu men tuỵ, đái tháo đường do rối loạn men tuỵ nội tiết và thậm chí ung thư tuỵ. Do đó, trong điều trị viêm tụy mạn tập trung chủ yếu vào việc cải thiện các triệu chứng, giúp ngăn ngừa bệnh tiến triển cũng như phát hiện và điều trị kịp thời biến chứng ung thư tuỵ. - Điều trị nguyên nhân như ngưng rượu, thuốc lá, sỏi mật, tăng triglyceride máu… để ngăn ngừa viêm tụy tái phát. - Giảm đau nếu bệnh nhân viêm tụy mạn bị đau nhiều. Có thể dùng thuốc hoặc nội soi lấy sỏi tuỵ, thậm chí can thiệp phẫu thuật sỏi tuỵ nếu cần để giảm đau. - Điều trị hỗ trợ men tụy ở những bệnh nhân có bằng chứng thiếu men tuỵ ngoại tiết. - Điều trị với insulin nếu bệnh nhân có biến chứng đái tháo đường, đồng thời theo dõi định kỳ nhằm phát hiện sớm ung thư tuỵ"
+            ],
+            "metadatas": [
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "hoi-chung-ruot-kich-thich"
+                },
+                {
+                    "doc_name": "hoi-chung-ruot-kich-thich",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-tuy-man-tinh",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-tuy-man-tinh",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-ruot-thua"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-ruot-thua"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                }
+            ]
+        },
+        "prompt": [
+            {
+                "role": "system",
+                "content": "\n        Bạn là một chuyên gia y tế.\n        - Chỉ dựa vào nội dung được cung cấp (context) để trả lời.\n        - Không tự bịa thêm thông tin không có trong context.\n        - Nếu thông tin không đủ để trả lời, hãy trả lời lịch sự rằng không đủ dữ liệu.\n        - Nếu thông tin (context) không khớp với câu hỏi (ví dụ câu hỏi về bệnh \"đau mắt đỏ\" nhưng kết quả chỉ trả về \"đau mắt\"), hãy trả lời rằng không đủ dữ liệu.\n        - Nếu câu hỏi không liên quan đến y tế, hãy trả lời rằng không phải lĩnh vực của bạn.\n        - Chỉ trả lời bằng tiếng Việt.\n    "
+            },
+            {
+                "role": "user",
+                "content": "\n    Dưới đây là một số thông tin y tế (context):\n\n    None\n\n    Câu hỏi:\n    tôi bị đau bụng phải làm sao\n    "
+            }
+        ],
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        }
+    },
+    {
+        "timestamp": "2025-05-24T19:28:31.095587",
+        "user_message": "tôi bị đau bụng phải làm sao",
+        "bot_response": "Xin lỗi, nhưng không đủ dữ liệu để đưa ra lời khuyên về tình trạng đau bụng. Bạn nên tham khảo ý kiến bác sĩ hoặc chuyên gia y tế để được tư vấn cụ thể.",
+        "response_time_seconds": 1.74,
+        "chromadb_data": {
+            "documents": [
+                "Điều trị hội chứng ruột kích thích tập trung nhiều vào chế độ ăn và dinh dưỡng, kết hợp với uống thuốc điều trị triệu chứng nổi trội và thay đổi lối sống khoa học để phục hồi và cải thiện chức năng đại tràng. IBS có phác đồ điều trị tập trung vào các triệu chứng cụ thể mà mỗi người bệnh gặp. Vì thế, bác sĩ sẽ chỉ định các loại thuốc dựa theo triệu chứng bệnh, đồng thời, hướng dẫn người bệnh về chế độ dinh dưỡng, các chất cần bổ sung và những loại thực phẩm, các chất cần tránh do gây dị ứng nếu có. Những loại thuốc thường được sử dụng trong quá trình điều trị hội chứng ruột kích thích gồm: - Thuốc chống co thắt - Thuốc điều trị tiêu chảy - Thuốc điều trị táo bón - Các thực phẩm chức năng bổ sung chất xơ - Thuốc an thần, giảm lo âu - Lợi khuẩn đường ruột Ngoài ra, người bệnh còn cần thực hiện theo chế độ ăn phù hợp, bổ sung nhiều chất xơ đến từ rau củ quả. Đồng thời, hạn chế tối đa các thực phẩm có chứa nhiều gluten như lúa mì, yến mạch, ngũ cốc. Đối với người có kết quả dị ứng với protein trong những loại thực phẩm này cần loại bỏ hoàn toàn ra khỏi thực đơn của mình. Người bệnh IBS được khuyến khích ăn theo chế độ FODMAP thấp để ổn định ruột già và",
+                "mì, yến mạch, ngũ cốc. Đối với người có kết quả dị ứng với protein trong những loại thực phẩm này cần loại bỏ hoàn toàn ra khỏi thực đơn của mình. Người bệnh IBS được khuyến khích ăn theo chế độ FODMAP thấp để ổn định ruột già và cải thiện sức khỏe hệ tiêu hóa. Đây là chế độ kiêng ăn các loại thực phẩm là carbohydrate chuỗi ngắn như táo, dưa hấu, hoa quả đóng hộp nói chung, sữa tươi có lactose, phô mai, sữa chua, fructose và các loại trái cây có lượng fructose cao, mật ong, các loại cây họ đậu, củ dền, bông cải xanh, lúa mì và các loại đồ uống có cồn. ﻿",
+                "Người bệnh cần thay đổi chế độ sinh hoạt: Tuyệt đối không dùng rượu, bia không hút thuốc lá, giảm đồ ăn nhiều chất béo và tinh bột đặc biệt khi có tăng mỡ máu. Triệu chứng tiêu phân mỡ sẽ được điều trị bằng những chế phẩm men tụy được chọn dựa theo hoạt độ lipase cao. Liều thường khoảng 25.000- 50.000 đơn vị lipase trong viên nang, được sử dụng trong bữa ăn. Sử dụng đồng thời thuốc ức chế bơm proton (omeprazol 20 – 60 mg/ngày) giúp giảm sự bất hoạt của lipase do axit, nhờ đó cải thiện triệu chứng đi tiêu phân mỡ. Đau thứ phát do viêm tụy mạn tự phát có thể thuyên giảm trong một số trường hợp bằng cách sử dụng những enzym tụy hay thuốc giảm đau. Nếu có đi kèm đái tháo đường, người bệnh cần được điều trị theo cách thông thường bằng việc sử dụng insulin. (3)",
+                "Những phương pháp phẫu thuật trong điều trị viêm tụy mạn gồm: - Phẫu thuật loại trừ tắc nghẽn ống tụy: Phương pháp này được thực hiện để dẫn lưu nang giả, giảm đau, điều trị biến chứng do viêm tụy mạn. - Phẫu thuật dẫn lưu ống tụy: Phương pháp này được chỉ định để làm giãn ống tụy hay cắt đuôi tụy nối thông tụy – hỗng tràng nhằm giảm đau cho người bệnh. - Phẫu thuật cắt tụy: Cắt tụy một phần hay toàn phần được xem là phương pháp điều trị cuối cùng cho người bệnh viêm tụy mạn tiến triển nghiêm trọng. Phương pháp này giúp ngăn ngừa nguy cơ vỡ ống tụy và những biến chứng khác. - Phong bế cắt đám rối thần kinh qua nội soi siêu âm hoặc qua da: Phương pháp này giúp giảm đau do viêm tụy mạn.",
+                "Bác sĩ sẽ căn cứ vào mức độ nghiêm trọng của tình trạng viêm để chỉ định phương pháp điều trị phù hợp. Cụ thể như sau:",
+                "Phương pháp này có thể thực hiện dưới dạng mổ hở với vết rạch trên bụng dài khoảng 5 – 10cm hoặc mổ nổi soi với vết rạch nhỏ hơn. Đối với thủ thuật thứ hai, bác sĩ sẽ chèn các dụng cụ đặc biệt cùng một máy quay video vào bụng để tiến hành cắt bỏ ruột thừa tổn thương. Phương pháp này thường được ưu tiên lựa chọn bởi thời gian hồi phục nhanh, ít đau và để lại sẹo. Nội soi đồng thời cũng phù hợp hơn đối với người cao tuổi và người béo phì.(4) Tuy nhiên, nếu ruột thừa đã bị vỡ, nhiễm trùng lan ra ngoài hoặc xuất hiện áp xe, người bệnh buộc phải tiến hành mổ hở để làm sạch khoang bụng. Sau phãu thuật, bác sĩ sẽ chỉ định ở lại bệnh viện từ 1 – 2 ngày để theo dõi và chăm sóc.",
+                "Nếu ruột thừa bị vỡ và đã hình thành áp xe xung quanh, bác sĩ sẽ tiến hành dẫn lưu bằng cách đặt một đường ống đi xuyên qua da vào khối mủ. Phẫu thuật cắt bỏ cơ quan cũng tiếp tục được thực hiện sau đó khoảng vài tuần khi nhiễm trùng đã được kiểm soát.",
+                "Sau khi thực hiện cắt bỏ ruột thừa do viêm, người bệnh cần thực hiện các biện pháp chăm sóc sau đây để đảm bảo vết thương được phục hồi hiệu quả: - Trong giai đoạn đầu sau phẫu thuật, người bệnh cần tránh hoạt động quá sức (khoảng 3 – 5 ngày đối với mổ nội soi và 10 – 14 ngày đối với mổ hở). - Đặt một chiếc gối lên bụng và ấn nhẹ trước khi ho, cười hoặc di chuyển để giúp giảm đau. - Liên hệ với bác sĩ nếu thuốc giảm đau không có hiệu quả để tránh làm chậm quá trình chữa lành vết thương. - Sau thời gian nghỉ ngơi được chỉ định, người bệnh nên bắt đầu hoạt động nhẹ nhàng, chẳng hạn như những cuộc đi bộ ngắn. - Khi cơ thể hồi phục, cảm giác buồn ngủ sẽ tăng lên, lúc này hãy nghỉ ngơi thoải mái theo nhu cầu.",
+                "Việc điều trị viêm tuỵ sẽ căn cứ theo hai loại viêm: Viêm tụy cấp tính và viêm tụy mãn tính.(6)",
+                "Bác sĩ Trung cho biết, trong quản lý viêm tuỵ cấp do mọi nguyên nhân thì giảm đau, bù dịch là hai nguyên tắc nền tảng quan trọng nhất. Tiếp theo là giải quyết nguyên nhân (nếu có) như giảm mỡ máu (triglyceride), can thiệp sỏi mật, chấn thương… Điều trị kháng sinh nếu có bằng chứng nhiễm trùng. Và đặc biệt xem xét cho bệnh nhân ăn sớm trong vòng 24h-72h sau nhập viện tùy theo mức độ viêm tụy cũng như khả năng dung nạp thức ăn qua đường miệng hoặc qua sonde dạ dày. - Giảm đau: Người bệnh được giảm đau tích cực với các thuốc giảm đau - Bù dịch: Tuỳ mức độ nặng và bệnh lý kèm theo, người bệnh có thể được truyền dung dịch Ringer lactat hoặc Sodium cloride 0.9%. Lưu ý, người bệnh cần được theo dõi sát lượng nước tiểu, sinh hiệu, xét nghiệm máu như dung tích hồng cầu, nồng độ urea máu để xác định chính xác lượng dịch truyền cần thiết, tránh tình trạng quá nhiều hoặc thiếu dịch. Tùy theo mức độ nặng nhẹ cũng như khả năng dung nạp mà người bệnh viêm tụy cấp được khuyến cáo cho ăn sớm trong vòng 24h-72h sau nhập viện. Nếu bệnh nhân không dung nạp bằng đường miệng có thể nuôi ăn qua sonde dạ dày. Những trường hợp chống chỉ định nuôi ăn sớm như liệt ruột, tắc ruột…có thể nuôi ăn đường tĩnh mạch thay thế. Bác sĩ Trung cho hay",
+                "trong vòng 24h-72h sau nhập viện. Nếu bệnh nhân không dung nạp bằng đường miệng có thể nuôi ăn qua sonde dạ dày. Những trường hợp chống chỉ định nuôi ăn sớm như liệt ruột, tắc ruột…có thể nuôi ăn đường tĩnh mạch thay thế. Bác sĩ Trung cho hay “việc nuôi ăn sớm giúp ngăn ngừa các biến chứng nguy hiểm như suy đa cơ quan, viêm tụy cấp hoại tử, điều này sẽ không có được nếu bệnh nhân được nuôi ăn đường ruột quá trễ”.",
+                "Việc lạm dụng kháng sinh trong viêm tụy cấp nếu không có bằng chứng nhiễm trùng đôi khi làm chậm trễ việc bù dịch và điều trị nguyên nhân ban đầu trong cấp cứu viêm tụy cấp. Tất cả những khuyến cáo về điều trị viêm tụy cấp đều không đồng thuận việc sử dụng kháng sinh nhằm mục đích phòng ngừa nhiễm trùng.",
+                "Bệnh nhân viêm tụy mạn thường có những triệu chứng và/hoặc biến chứng như đau bụng mạn tính, suy dinh dưỡng, tiêu phân mỡ do thiếu men tuỵ, đái tháo đường do rối loạn men tuỵ nội tiết và thậm chí ung thư tuỵ. Do đó, trong điều trị viêm tụy mạn tập trung chủ yếu vào việc cải thiện các triệu chứng, giúp ngăn ngừa bệnh tiến triển cũng như phát hiện và điều trị kịp thời biến chứng ung thư tuỵ. - Điều trị nguyên nhân như ngưng rượu, thuốc lá, sỏi mật, tăng triglyceride máu… để ngăn ngừa viêm tụy tái phát. - Giảm đau nếu bệnh nhân viêm tụy mạn bị đau nhiều. Có thể dùng thuốc hoặc nội soi lấy sỏi tuỵ, thậm chí can thiệp phẫu thuật sỏi tuỵ nếu cần để giảm đau. - Điều trị hỗ trợ men tụy ở những bệnh nhân có bằng chứng thiếu men tuỵ ngoại tiết. - Điều trị với insulin nếu bệnh nhân có biến chứng đái tháo đường, đồng thời theo dõi định kỳ nhằm phát hiện sớm ung thư tuỵ"
+            ],
+            "metadatas": [
+                {
+                    "doc_name": "hoi-chung-ruot-kich-thich",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "hoi-chung-ruot-kich-thich"
+                },
+                {
+                    "doc_name": "viem-tuy-man-tinh",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-tuy-man-tinh",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-ruot-thua"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-ruot-thua"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                }
+            ]
+        },
+        "prompt": [
+            {
+                "role": "system",
+                "content": "\n        Bạn là một chuyên gia y tế.\n        - Chỉ dựa vào nội dung được cung cấp (context) để trả lời.\n        - Không tự bịa thêm thông tin không có trong context.\n        - Nếu thông tin không đủ để trả lời, hãy trả lời lịch sự rằng không đủ dữ liệu.\n        - Nếu thông tin (context) không khớp với câu hỏi (ví dụ câu hỏi về bệnh \"đau mắt đỏ\" nhưng kết quả chỉ trả về \"đau mắt\"), hãy trả lời rằng không đủ dữ liệu.\n        - Nếu câu hỏi không liên quan đến y tế, hãy trả lời rằng không phải lĩnh vực của bạn.\n        - Chỉ trả lời bằng tiếng Việt.\n    "
+            },
+            {
+                "role": "user",
+                "content": "\n    Dưới đây là một số thông tin y tế (context):\n\n    None\n\n    Câu hỏi:\n    tôi bị đau bụng phải làm sao\n    "
+            }
+        ],
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        }
+    },
+    {
+        "timestamp": "2025-05-24T19:29:33.849653",
+        "user_message": "tôi bị đau bụng phải làm sao",
+        "bot_response": "Xin lỗi, không đủ dữ liệu để tư vấn cho bạn. Bạn nên tham khảo ý kiến bác sĩ hoặc chuyên gia y tế để được chẩn đoán và điều trị phù hợp.",
+        "response_time_seconds": 2.27,
+        "chromadb_data": {
+            "documents": [
+                "Điều trị hội chứng ruột kích thích tập trung nhiều vào chế độ ăn và dinh dưỡng, kết hợp với uống thuốc điều trị triệu chứng nổi trội và thay đổi lối sống khoa học để phục hồi và cải thiện chức năng đại tràng. IBS có phác đồ điều trị tập trung vào các triệu chứng cụ thể mà mỗi người bệnh gặp. Vì thế, bác sĩ sẽ chỉ định các loại thuốc dựa theo triệu chứng bệnh, đồng thời, hướng dẫn người bệnh về chế độ dinh dưỡng, các chất cần bổ sung và những loại thực phẩm, các chất cần tránh do gây dị ứng nếu có. Những loại thuốc thường được sử dụng trong quá trình điều trị hội chứng ruột kích thích gồm: - Thuốc chống co thắt - Thuốc điều trị tiêu chảy - Thuốc điều trị táo bón - Các thực phẩm chức năng bổ sung chất xơ - Thuốc an thần, giảm lo âu - Lợi khuẩn đường ruột Ngoài ra, người bệnh còn cần thực hiện theo chế độ ăn phù hợp, bổ sung nhiều chất xơ đến từ rau củ quả. Đồng thời, hạn chế tối đa các thực phẩm có chứa nhiều gluten như lúa mì, yến mạch, ngũ cốc. Đối với người có kết quả dị ứng với protein trong những loại thực phẩm này cần loại bỏ hoàn toàn ra khỏi thực đơn của mình. Người bệnh IBS được khuyến khích ăn theo chế độ FODMAP thấp để ổn định ruột già và",
+                "mì, yến mạch, ngũ cốc. Đối với người có kết quả dị ứng với protein trong những loại thực phẩm này cần loại bỏ hoàn toàn ra khỏi thực đơn của mình. Người bệnh IBS được khuyến khích ăn theo chế độ FODMAP thấp để ổn định ruột già và cải thiện sức khỏe hệ tiêu hóa. Đây là chế độ kiêng ăn các loại thực phẩm là carbohydrate chuỗi ngắn như táo, dưa hấu, hoa quả đóng hộp nói chung, sữa tươi có lactose, phô mai, sữa chua, fructose và các loại trái cây có lượng fructose cao, mật ong, các loại cây họ đậu, củ dền, bông cải xanh, lúa mì và các loại đồ uống có cồn. ﻿",
+                "Người bệnh cần thay đổi chế độ sinh hoạt: Tuyệt đối không dùng rượu, bia không hút thuốc lá, giảm đồ ăn nhiều chất béo và tinh bột đặc biệt khi có tăng mỡ máu. Triệu chứng tiêu phân mỡ sẽ được điều trị bằng những chế phẩm men tụy được chọn dựa theo hoạt độ lipase cao. Liều thường khoảng 25.000- 50.000 đơn vị lipase trong viên nang, được sử dụng trong bữa ăn. Sử dụng đồng thời thuốc ức chế bơm proton (omeprazol 20 – 60 mg/ngày) giúp giảm sự bất hoạt của lipase do axit, nhờ đó cải thiện triệu chứng đi tiêu phân mỡ. Đau thứ phát do viêm tụy mạn tự phát có thể thuyên giảm trong một số trường hợp bằng cách sử dụng những enzym tụy hay thuốc giảm đau. Nếu có đi kèm đái tháo đường, người bệnh cần được điều trị theo cách thông thường bằng việc sử dụng insulin. (3)",
+                "Những phương pháp phẫu thuật trong điều trị viêm tụy mạn gồm: - Phẫu thuật loại trừ tắc nghẽn ống tụy: Phương pháp này được thực hiện để dẫn lưu nang giả, giảm đau, điều trị biến chứng do viêm tụy mạn. - Phẫu thuật dẫn lưu ống tụy: Phương pháp này được chỉ định để làm giãn ống tụy hay cắt đuôi tụy nối thông tụy – hỗng tràng nhằm giảm đau cho người bệnh. - Phẫu thuật cắt tụy: Cắt tụy một phần hay toàn phần được xem là phương pháp điều trị cuối cùng cho người bệnh viêm tụy mạn tiến triển nghiêm trọng. Phương pháp này giúp ngăn ngừa nguy cơ vỡ ống tụy và những biến chứng khác. - Phong bế cắt đám rối thần kinh qua nội soi siêu âm hoặc qua da: Phương pháp này giúp giảm đau do viêm tụy mạn.",
+                "Bác sĩ sẽ căn cứ vào mức độ nghiêm trọng của tình trạng viêm để chỉ định phương pháp điều trị phù hợp. Cụ thể như sau:",
+                "Phương pháp này có thể thực hiện dưới dạng mổ hở với vết rạch trên bụng dài khoảng 5 – 10cm hoặc mổ nổi soi với vết rạch nhỏ hơn. Đối với thủ thuật thứ hai, bác sĩ sẽ chèn các dụng cụ đặc biệt cùng một máy quay video vào bụng để tiến hành cắt bỏ ruột thừa tổn thương. Phương pháp này thường được ưu tiên lựa chọn bởi thời gian hồi phục nhanh, ít đau và để lại sẹo. Nội soi đồng thời cũng phù hợp hơn đối với người cao tuổi và người béo phì.(4) Tuy nhiên, nếu ruột thừa đã bị vỡ, nhiễm trùng lan ra ngoài hoặc xuất hiện áp xe, người bệnh buộc phải tiến hành mổ hở để làm sạch khoang bụng. Sau phãu thuật, bác sĩ sẽ chỉ định ở lại bệnh viện từ 1 – 2 ngày để theo dõi và chăm sóc.",
+                "Nếu ruột thừa bị vỡ và đã hình thành áp xe xung quanh, bác sĩ sẽ tiến hành dẫn lưu bằng cách đặt một đường ống đi xuyên qua da vào khối mủ. Phẫu thuật cắt bỏ cơ quan cũng tiếp tục được thực hiện sau đó khoảng vài tuần khi nhiễm trùng đã được kiểm soát.",
+                "Sau khi thực hiện cắt bỏ ruột thừa do viêm, người bệnh cần thực hiện các biện pháp chăm sóc sau đây để đảm bảo vết thương được phục hồi hiệu quả: - Trong giai đoạn đầu sau phẫu thuật, người bệnh cần tránh hoạt động quá sức (khoảng 3 – 5 ngày đối với mổ nội soi và 10 – 14 ngày đối với mổ hở). - Đặt một chiếc gối lên bụng và ấn nhẹ trước khi ho, cười hoặc di chuyển để giúp giảm đau. - Liên hệ với bác sĩ nếu thuốc giảm đau không có hiệu quả để tránh làm chậm quá trình chữa lành vết thương. - Sau thời gian nghỉ ngơi được chỉ định, người bệnh nên bắt đầu hoạt động nhẹ nhàng, chẳng hạn như những cuộc đi bộ ngắn. - Khi cơ thể hồi phục, cảm giác buồn ngủ sẽ tăng lên, lúc này hãy nghỉ ngơi thoải mái theo nhu cầu.",
+                "Việc điều trị viêm tuỵ sẽ căn cứ theo hai loại viêm: Viêm tụy cấp tính và viêm tụy mãn tính.(6)",
+                "Bác sĩ Trung cho biết, trong quản lý viêm tuỵ cấp do mọi nguyên nhân thì giảm đau, bù dịch là hai nguyên tắc nền tảng quan trọng nhất. Tiếp theo là giải quyết nguyên nhân (nếu có) như giảm mỡ máu (triglyceride), can thiệp sỏi mật, chấn thương… Điều trị kháng sinh nếu có bằng chứng nhiễm trùng. Và đặc biệt xem xét cho bệnh nhân ăn sớm trong vòng 24h-72h sau nhập viện tùy theo mức độ viêm tụy cũng như khả năng dung nạp thức ăn qua đường miệng hoặc qua sonde dạ dày. - Giảm đau: Người bệnh được giảm đau tích cực với các thuốc giảm đau - Bù dịch: Tuỳ mức độ nặng và bệnh lý kèm theo, người bệnh có thể được truyền dung dịch Ringer lactat hoặc Sodium cloride 0.9%. Lưu ý, người bệnh cần được theo dõi sát lượng nước tiểu, sinh hiệu, xét nghiệm máu như dung tích hồng cầu, nồng độ urea máu để xác định chính xác lượng dịch truyền cần thiết, tránh tình trạng quá nhiều hoặc thiếu dịch. Tùy theo mức độ nặng nhẹ cũng như khả năng dung nạp mà người bệnh viêm tụy cấp được khuyến cáo cho ăn sớm trong vòng 24h-72h sau nhập viện. Nếu bệnh nhân không dung nạp bằng đường miệng có thể nuôi ăn qua sonde dạ dày. Những trường hợp chống chỉ định nuôi ăn sớm như liệt ruột, tắc ruột…có thể nuôi ăn đường tĩnh mạch thay thế. Bác sĩ Trung cho hay",
+                "trong vòng 24h-72h sau nhập viện. Nếu bệnh nhân không dung nạp bằng đường miệng có thể nuôi ăn qua sonde dạ dày. Những trường hợp chống chỉ định nuôi ăn sớm như liệt ruột, tắc ruột…có thể nuôi ăn đường tĩnh mạch thay thế. Bác sĩ Trung cho hay “việc nuôi ăn sớm giúp ngăn ngừa các biến chứng nguy hiểm như suy đa cơ quan, viêm tụy cấp hoại tử, điều này sẽ không có được nếu bệnh nhân được nuôi ăn đường ruột quá trễ”.",
+                "Việc lạm dụng kháng sinh trong viêm tụy cấp nếu không có bằng chứng nhiễm trùng đôi khi làm chậm trễ việc bù dịch và điều trị nguyên nhân ban đầu trong cấp cứu viêm tụy cấp. Tất cả những khuyến cáo về điều trị viêm tụy cấp đều không đồng thuận việc sử dụng kháng sinh nhằm mục đích phòng ngừa nhiễm trùng.",
+                "Bệnh nhân viêm tụy mạn thường có những triệu chứng và/hoặc biến chứng như đau bụng mạn tính, suy dinh dưỡng, tiêu phân mỡ do thiếu men tuỵ, đái tháo đường do rối loạn men tuỵ nội tiết và thậm chí ung thư tuỵ. Do đó, trong điều trị viêm tụy mạn tập trung chủ yếu vào việc cải thiện các triệu chứng, giúp ngăn ngừa bệnh tiến triển cũng như phát hiện và điều trị kịp thời biến chứng ung thư tuỵ. - Điều trị nguyên nhân như ngưng rượu, thuốc lá, sỏi mật, tăng triglyceride máu… để ngăn ngừa viêm tụy tái phát. - Giảm đau nếu bệnh nhân viêm tụy mạn bị đau nhiều. Có thể dùng thuốc hoặc nội soi lấy sỏi tuỵ, thậm chí can thiệp phẫu thuật sỏi tuỵ nếu cần để giảm đau. - Điều trị hỗ trợ men tụy ở những bệnh nhân có bằng chứng thiếu men tuỵ ngoại tiết. - Điều trị với insulin nếu bệnh nhân có biến chứng đái tháo đường, đồng thời theo dõi định kỳ nhằm phát hiện sớm ung thư tuỵ"
+            ],
+            "metadatas": [
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "hoi-chung-ruot-kich-thich"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "hoi-chung-ruot-kich-thich"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy-man-tinh"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy-man-tinh"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-ruot-thua"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "điều trị"
+                }
+            ]
+        },
+        "prompt": [
+            {
+                "role": "system",
+                "content": "\n        Bạn là một chuyên gia y tế.\n        - Chỉ dựa vào nội dung được cung cấp (context) để trả lời.\n        - Không tự bịa thêm thông tin không có trong context.\n        - Nếu thông tin không đủ để trả lời, hãy trả lời lịch sự rằng không đủ dữ liệu.\n        - Nếu thông tin (context) không khớp với câu hỏi (ví dụ câu hỏi về bệnh \"đau mắt đỏ\" nhưng kết quả chỉ trả về \"đau mắt\"), hãy trả lời rằng không đủ dữ liệu.\n        - Nếu câu hỏi không liên quan đến y tế, hãy trả lời rằng không phải lĩnh vực của bạn.\n        - Chỉ trả lời bằng tiếng Việt.\n    "
+            },
+            {
+                "role": "user",
+                "content": "\n    Dưới đây là một số thông tin y tế (context):\n\n    None\n\n    Câu hỏi:\n    tôi bị đau bụng phải làm sao\n    "
+            }
+        ],
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        }
+    },
+    {
+        "timestamp": "2025-05-24T19:33:20.552513",
+        "user_message": "tôi bị đau bụng phải làm sao",
+        "bot_response": "Để điều trị đau bụng, bạn cần xác định nguyên nhân gây đau. Nếu cơn đau không nghiêm trọng, bạn có thể thực hiện một số biện pháp như:\n\n- Nghỉ ngơi và cho ruột nghỉ ngơi.\n- Chỉ ăn những thức ăn nhẹ, dễ tiêu như cháo, súp, chuối, hoặc vài miếng bánh quy giòn.\n- Uống nhiều nước.\n- Dùng khăn ấm hoặc túi giữ nhiệt chườm lên bụng để giảm đau.\n- Massage hoặc xoa nhẹ vùng bụng bị đau để hỗ trợ tuần hoàn máu.\n\nNếu cơn đau kéo dài, dữ dội, hoặc kèm theo các triệu chứng nghiêm trọng như nôn ói, sốt, hoặc đại tiện ra máu, bạn nên gặp bác sĩ để được thăm khám và điều trị kịp thời.",
+        "response_time_seconds": 3.88,
+        "chromadb_data": {
+            "documents": [
+                "Điều trị hội chứng ruột kích thích tập trung nhiều vào chế độ ăn và dinh dưỡng, kết hợp với uống thuốc điều trị triệu chứng nổi trội và thay đổi lối sống khoa học để phục hồi và cải thiện chức năng đại tràng. IBS có phác đồ điều trị tập trung vào các triệu chứng cụ thể mà mỗi người bệnh gặp. Vì thế, bác sĩ sẽ chỉ định các loại thuốc dựa theo triệu chứng bệnh, đồng thời, hướng dẫn người bệnh về chế độ dinh dưỡng, các chất cần bổ sung và những loại thực phẩm, các chất cần tránh do gây dị ứng nếu có. Những loại thuốc thường được sử dụng trong quá trình điều trị hội chứng ruột kích thích gồm: - Thuốc chống co thắt - Thuốc điều trị tiêu chảy - Thuốc điều trị táo bón - Các thực phẩm chức năng bổ sung chất xơ - Thuốc an thần, giảm lo âu - Lợi khuẩn đường ruột Ngoài ra, người bệnh còn cần thực hiện theo chế độ ăn phù hợp, bổ sung nhiều chất xơ đến từ rau củ quả. Đồng thời, hạn chế tối đa các thực phẩm có chứa nhiều gluten như lúa mì, yến mạch, ngũ cốc. Đối với người có kết quả dị ứng với protein trong những loại thực phẩm này cần loại bỏ hoàn toàn ra khỏi thực đơn của mình. Người bệnh IBS được khuyến khích ăn theo chế độ FODMAP thấp để ổn định ruột già và",
+                "mì, yến mạch, ngũ cốc. Đối với người có kết quả dị ứng với protein trong những loại thực phẩm này cần loại bỏ hoàn toàn ra khỏi thực đơn của mình. Người bệnh IBS được khuyến khích ăn theo chế độ FODMAP thấp để ổn định ruột già và cải thiện sức khỏe hệ tiêu hóa. Đây là chế độ kiêng ăn các loại thực phẩm là carbohydrate chuỗi ngắn như táo, dưa hấu, hoa quả đóng hộp nói chung, sữa tươi có lactose, phô mai, sữa chua, fructose và các loại trái cây có lượng fructose cao, mật ong, các loại cây họ đậu, củ dền, bông cải xanh, lúa mì và các loại đồ uống có cồn. ﻿",
+                "Người bệnh cần thay đổi chế độ sinh hoạt: Tuyệt đối không dùng rượu, bia không hút thuốc lá, giảm đồ ăn nhiều chất béo và tinh bột đặc biệt khi có tăng mỡ máu. Triệu chứng tiêu phân mỡ sẽ được điều trị bằng những chế phẩm men tụy được chọn dựa theo hoạt độ lipase cao. Liều thường khoảng 25.000- 50.000 đơn vị lipase trong viên nang, được sử dụng trong bữa ăn. Sử dụng đồng thời thuốc ức chế bơm proton (omeprazol 20 – 60 mg/ngày) giúp giảm sự bất hoạt của lipase do axit, nhờ đó cải thiện triệu chứng đi tiêu phân mỡ. Đau thứ phát do viêm tụy mạn tự phát có thể thuyên giảm trong một số trường hợp bằng cách sử dụng những enzym tụy hay thuốc giảm đau. Nếu có đi kèm đái tháo đường, người bệnh cần được điều trị theo cách thông thường bằng việc sử dụng insulin. (3)",
+                "Những phương pháp phẫu thuật trong điều trị viêm tụy mạn gồm: - Phẫu thuật loại trừ tắc nghẽn ống tụy: Phương pháp này được thực hiện để dẫn lưu nang giả, giảm đau, điều trị biến chứng do viêm tụy mạn. - Phẫu thuật dẫn lưu ống tụy: Phương pháp này được chỉ định để làm giãn ống tụy hay cắt đuôi tụy nối thông tụy – hỗng tràng nhằm giảm đau cho người bệnh. - Phẫu thuật cắt tụy: Cắt tụy một phần hay toàn phần được xem là phương pháp điều trị cuối cùng cho người bệnh viêm tụy mạn tiến triển nghiêm trọng. Phương pháp này giúp ngăn ngừa nguy cơ vỡ ống tụy và những biến chứng khác. - Phong bế cắt đám rối thần kinh qua nội soi siêu âm hoặc qua da: Phương pháp này giúp giảm đau do viêm tụy mạn.",
+                "Bác sĩ sẽ căn cứ vào mức độ nghiêm trọng của tình trạng viêm để chỉ định phương pháp điều trị phù hợp. Cụ thể như sau:",
+                "Phương pháp này có thể thực hiện dưới dạng mổ hở với vết rạch trên bụng dài khoảng 5 – 10cm hoặc mổ nổi soi với vết rạch nhỏ hơn. Đối với thủ thuật thứ hai, bác sĩ sẽ chèn các dụng cụ đặc biệt cùng một máy quay video vào bụng để tiến hành cắt bỏ ruột thừa tổn thương. Phương pháp này thường được ưu tiên lựa chọn bởi thời gian hồi phục nhanh, ít đau và để lại sẹo. Nội soi đồng thời cũng phù hợp hơn đối với người cao tuổi và người béo phì.(4) Tuy nhiên, nếu ruột thừa đã bị vỡ, nhiễm trùng lan ra ngoài hoặc xuất hiện áp xe, người bệnh buộc phải tiến hành mổ hở để làm sạch khoang bụng. Sau phãu thuật, bác sĩ sẽ chỉ định ở lại bệnh viện từ 1 – 2 ngày để theo dõi và chăm sóc.",
+                "Nếu ruột thừa bị vỡ và đã hình thành áp xe xung quanh, bác sĩ sẽ tiến hành dẫn lưu bằng cách đặt một đường ống đi xuyên qua da vào khối mủ. Phẫu thuật cắt bỏ cơ quan cũng tiếp tục được thực hiện sau đó khoảng vài tuần khi nhiễm trùng đã được kiểm soát.",
+                "Sau khi thực hiện cắt bỏ ruột thừa do viêm, người bệnh cần thực hiện các biện pháp chăm sóc sau đây để đảm bảo vết thương được phục hồi hiệu quả: - Trong giai đoạn đầu sau phẫu thuật, người bệnh cần tránh hoạt động quá sức (khoảng 3 – 5 ngày đối với mổ nội soi và 10 – 14 ngày đối với mổ hở). - Đặt một chiếc gối lên bụng và ấn nhẹ trước khi ho, cười hoặc di chuyển để giúp giảm đau. - Liên hệ với bác sĩ nếu thuốc giảm đau không có hiệu quả để tránh làm chậm quá trình chữa lành vết thương. - Sau thời gian nghỉ ngơi được chỉ định, người bệnh nên bắt đầu hoạt động nhẹ nhàng, chẳng hạn như những cuộc đi bộ ngắn. - Khi cơ thể hồi phục, cảm giác buồn ngủ sẽ tăng lên, lúc này hãy nghỉ ngơi thoải mái theo nhu cầu.",
+                "Việc điều trị viêm tuỵ sẽ căn cứ theo hai loại viêm: Viêm tụy cấp tính và viêm tụy mãn tính.(6)",
+                "Bác sĩ Trung cho biết, trong quản lý viêm tuỵ cấp do mọi nguyên nhân thì giảm đau, bù dịch là hai nguyên tắc nền tảng quan trọng nhất. Tiếp theo là giải quyết nguyên nhân (nếu có) như giảm mỡ máu (triglyceride), can thiệp sỏi mật, chấn thương… Điều trị kháng sinh nếu có bằng chứng nhiễm trùng. Và đặc biệt xem xét cho bệnh nhân ăn sớm trong vòng 24h-72h sau nhập viện tùy theo mức độ viêm tụy cũng như khả năng dung nạp thức ăn qua đường miệng hoặc qua sonde dạ dày. - Giảm đau: Người bệnh được giảm đau tích cực với các thuốc giảm đau - Bù dịch: Tuỳ mức độ nặng và bệnh lý kèm theo, người bệnh có thể được truyền dung dịch Ringer lactat hoặc Sodium cloride 0.9%. Lưu ý, người bệnh cần được theo dõi sát lượng nước tiểu, sinh hiệu, xét nghiệm máu như dung tích hồng cầu, nồng độ urea máu để xác định chính xác lượng dịch truyền cần thiết, tránh tình trạng quá nhiều hoặc thiếu dịch. Tùy theo mức độ nặng nhẹ cũng như khả năng dung nạp mà người bệnh viêm tụy cấp được khuyến cáo cho ăn sớm trong vòng 24h-72h sau nhập viện. Nếu bệnh nhân không dung nạp bằng đường miệng có thể nuôi ăn qua sonde dạ dày. Những trường hợp chống chỉ định nuôi ăn sớm như liệt ruột, tắc ruột…có thể nuôi ăn đường tĩnh mạch thay thế. Bác sĩ Trung cho hay",
+                "trong vòng 24h-72h sau nhập viện. Nếu bệnh nhân không dung nạp bằng đường miệng có thể nuôi ăn qua sonde dạ dày. Những trường hợp chống chỉ định nuôi ăn sớm như liệt ruột, tắc ruột…có thể nuôi ăn đường tĩnh mạch thay thế. Bác sĩ Trung cho hay “việc nuôi ăn sớm giúp ngăn ngừa các biến chứng nguy hiểm như suy đa cơ quan, viêm tụy cấp hoại tử, điều này sẽ không có được nếu bệnh nhân được nuôi ăn đường ruột quá trễ”.",
+                "Việc lạm dụng kháng sinh trong viêm tụy cấp nếu không có bằng chứng nhiễm trùng đôi khi làm chậm trễ việc bù dịch và điều trị nguyên nhân ban đầu trong cấp cứu viêm tụy cấp. Tất cả những khuyến cáo về điều trị viêm tụy cấp đều không đồng thuận việc sử dụng kháng sinh nhằm mục đích phòng ngừa nhiễm trùng.",
+                "Bệnh nhân viêm tụy mạn thường có những triệu chứng và/hoặc biến chứng như đau bụng mạn tính, suy dinh dưỡng, tiêu phân mỡ do thiếu men tuỵ, đái tháo đường do rối loạn men tuỵ nội tiết và thậm chí ung thư tuỵ. Do đó, trong điều trị viêm tụy mạn tập trung chủ yếu vào việc cải thiện các triệu chứng, giúp ngăn ngừa bệnh tiến triển cũng như phát hiện và điều trị kịp thời biến chứng ung thư tuỵ. - Điều trị nguyên nhân như ngưng rượu, thuốc lá, sỏi mật, tăng triglyceride máu… để ngăn ngừa viêm tụy tái phát. - Giảm đau nếu bệnh nhân viêm tụy mạn bị đau nhiều. Có thể dùng thuốc hoặc nội soi lấy sỏi tuỵ, thậm chí can thiệp phẫu thuật sỏi tuỵ nếu cần để giảm đau. - Điều trị hỗ trợ men tụy ở những bệnh nhân có bằng chứng thiếu men tuỵ ngoại tiết. - Điều trị với insulin nếu bệnh nhân có biến chứng đái tháo đường, đồng thời theo dõi định kỳ nhằm phát hiện sớm ung thư tuỵ"
+            ],
+            "metadatas": [
+                {
+                    "doc_name": "hoi-chung-ruot-kich-thich",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "hoi-chung-ruot-kich-thich",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy-man-tinh"
+                },
+                {
+                    "doc_name": "viem-tuy-man-tinh",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-ruot-thua"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-ruot-thua",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "điều trị"
+                },
+                {
+                    "doc_name": "viem-tuy",
+                    "section_id": "điều trị"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                },
+                {
+                    "section_id": "điều trị",
+                    "doc_name": "viem-tuy"
+                }
+            ]
+        },
+        "prompt": [
+            {
+                "role": "system",
+                "content": "\n        Bạn là một chuyên gia y tế.\n        - Chỉ dựa vào nội dung được cung cấp (context) để trả lời.\n        - Không tự bịa thêm thông tin không có trong context.\n        - Nếu thông tin không đủ để trả lời, hãy trả lời lịch sự rằng không đủ dữ liệu.\n        - Nếu thông tin (context) không khớp với câu hỏi (ví dụ câu hỏi về bệnh \"đau mắt đỏ\" nhưng kết quả chỉ trả về \"đau mắt\"), hãy trả lời rằng không đủ dữ liệu.\n        - Nếu câu hỏi không liên quan đến y tế, hãy trả lời rằng không phải lĩnh vực của bạn.\n        - Chỉ trả lời bằng tiếng Việt.\n    "
+            },
+            {
+                "role": "user",
+                "content": "\n    Dưới đây là một số thông tin y tế (context):\n\n    https://tamanhhospital.vn/dau-bung/ section: triệu chứng (Triệu chứng đau bụng cần chú ý?) Đau bụng là tình trạng phổ biến, thường sẽ điều trị khỏi. Tuy nhiên, đau bụng có những triệu chứng đi kèm sau đây, mọi người cần chú ý, cần gặp bác sĩ: (1)\n- Không thể đại tiện, kèm nôn ói\n- Thường xuyên đi tiểu buốt, tiểu rắt\n- Đau khi sờ vào bụng\n- Cơn đau kéo dài vài giờ\n- Khó thở\n- Đau ngực\n- Đại tiện ra máu hoặc phân đen\n- Cơn đau bụng đến đột ngột và đau dữ dội\n- Nôn ra máu\n- Đau bụng xảy ra ở thai kỳ\n- Sốt\n- Nóng bụng\nĐây là những dấu hiệu nghiêm trọng cần thăm khám và điều trị càng sớm càng tốt.\n\nhttps://tamanhhospital.vn/dau-bung/ section: điều trị (Làm sao để điều trị đau bụng?) Tùy thuộc vào nguyên nhân gây đau bụng, bác sĩ sẽ đưa phương pháp điều trị thích hợp như dùng thuốc điều trị viêm, loét dạ dày – tá tràng; thuốc kháng sinh cho các loại nhiễm trùng, hoặc chỉ đơn giản là thay đổi thói quen ăn uống, sử dụng thực phẩm đúng cách. Bên cạnh đó một số trường hợp phải cần đến phẫu thuật để điều trị như viêm ruột thừa, sỏi thận, sỏi đường mật. (2)\nCòn nếu cơn đau bụng có liên quan đến tiêu hóa, bác sĩ sẽ chỉ định một số loại thuốc như Berberin (có tác dụng tiêu diệt các vi khuẩn đường ruột, làm giảm các triệu chứng tiêu chảy), Loperamid (thuốc cầm tiêu chảy khi các triệu chứng tiêu chảy mà không rõ nguyên nhân), dung dịch Oresol (bổ sung nước và các chất điện giải cho cơ thể khi bị tiêu chảy).\nCác nhóm thuốc dùng khi bị buồn nôn, khó tiêu, trào ngược dạ dày…; thuốc trị đầy bụng, ợ hơi, táo bón; thuốc trị khó tiêu, đầy bụng đi cùng với đó là ợ chua do thừa axit dịch vị; thuốc trị nôn hoặc có cảm giác buồn nôn, chống trào ngược dạ dày và hỗ trợ tiêu hóa.\nBên cạnh đó, người bệnh nên cho ruột nghỉ ngơi, chỉ ăn những thức ăn nhẹ, dễ tiêu như cháo, súp, chuối, hay vài miếng bánh quy giòn; uống nhiều nước; dùng khăn ấm hay túi giữ nhiệt chườm lên bụng để giảm đau; massage, xoa nhẹ vùng bụng bị đau để hỗ trợ tuần hoàn máu giúp giảm đau. Ngoài ra, có có dùng một ly trà gừng, cam thảo hoặc bạc hà để chữa chứng đầy hơi, khó tiêu, giúp cơ ruột được thư giãn. | main_obj: điều trị Tùy thuộc vào nguyên nhân gây đau bụng, bác sĩ sẽ đưa phương pháp điều trị thích hợp như dùng thuốc điều trị viêm, loét dạ dày – tá tràng; thuốc kháng sinh cho các loại nhiễm trùng, hoặc chỉ đơn giản là thay đổi thói quen ăn uống, sử dụng thực phẩm đúng cách. Bên cạnh đó một số trường hợp phải cần đến phẫu thuật để điều trị như viêm ruột thừa, sỏi thận, sỏi đường mật. (2)\nCòn nếu cơn đau bụng có liên quan đến tiêu hóa, bác sĩ sẽ chỉ định một số loại thuốc như Berberin (có tác dụng tiêu diệt các vi khuẩn đường ruột, làm giảm các triệu chứng tiêu chảy), Loperamid (thuốc cầm tiêu chảy khi các triệu chứng tiêu chảy mà không rõ nguyên nhân), dung dịch Oresol (bổ sung nước và các chất điện giải cho cơ thể khi bị tiêu chảy).\nCác nhóm thuốc dùng khi bị buồn nôn, khó tiêu, trào ngược dạ dày…; thuốc trị đầy bụng, ợ hơi, táo bón; thuốc trị khó tiêu, đầy bụng đi cùng với đó là ợ chua do thừa axit dịch vị; thuốc trị nôn hoặc có cảm giác buồn nôn, chống trào ngược dạ dày và hỗ trợ tiêu hóa.\nBên cạnh đó, người bệnh nên cho ruột nghỉ ngơi, chỉ ăn những thức ăn nhẹ, dễ tiêu như cháo, súp, chuối, hay vài miếng bánh quy giòn; uống nhiều nước; dùng khăn ấm hay túi giữ nhiệt chườm lên bụng để giảm đau; massage, xoa nhẹ vùng bụng bị đau để hỗ trợ tuần hoàn máu giúp giảm đau. Ngoài ra, có có dùng một ly trà gừng, cam thảo hoặc bạc hà để chữa chứng đầy hơi, khó tiêu, giúp cơ ruột được thư giãn.\n\n    Câu hỏi:\n    tôi bị đau bụng phải làm sao\n    "
+            }
+        ],
+        "llm_analysis": {
+            "tên bệnh": [],
+            "phần phụ": [
+                "triệu chứng",
+                "điều trị"
+            ],
+            "phần chính": "điều trị"
+        }
     }
 ]

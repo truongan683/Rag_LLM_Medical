@@ -4,7 +4,7 @@ import openai
 from config import OPENAI_API_KEY  # Nếu cần truyền key rõ ràng
 
 class OpenAIChatWrapper:
-    def __init__(self, model="gpt-4o"):
+    def __init__(self, model="gpt-4o-mini"):
         # Nếu muốn lấy key từ biến môi trường, bỏ api_key, nếu không thì truyền luôn api_key
         self.client = openai.OpenAI(api_key=OPENAI_API_KEY)
         self.model = model
@@ -18,7 +18,7 @@ class OpenAIChatWrapper:
             stream=stream
         )
 
-def openai_chat_completion_stream(messages, model="gpt-4o", max_tokens=500, temperature=0.7):
+def openai_chat_completion_stream(messages, model="gpt-4o-mini", max_tokens=500, temperature=0.7):
     # Dùng key nếu cần, hoặc mặc định lấy từ env
     client = openai.OpenAI(api_key=OPENAI_API_KEY)
     response = client.chat.completions.create(
